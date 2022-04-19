@@ -44,3 +44,8 @@ Tornou-se necessário um navegador que suportasse o HTTP e apresentasse páginas
 Em 1994, [Marc Andreessen](https://pt.wikipedia.org/wiki/Marc_Andreessen) e Jim Clark fundaram a Netscape Communications Corporation, responsável por criar um navegador que foi muito utilizado, o **Netscape**
 
 _Curiosidade: As equipes dessa empresa eram conhecidas por dar nomes engraçados para seus projetos; um dos projetos recebeu o nome de Mozilla, em homenagem ao monstro japonoês Godzilla_
+
+### **1995** - Surgimento do Javascript
+
+Em 1995, o desenvolvedor [Brendan Eich](https://pt.wikipedia.org/wiki/Brendan_Eich) foi contratado pela Netscape com o intuito de criar uma solução que melhorasse limitações do HTML, adicionando mais funcionalidades. Brendan possuía um projeto de linguagem de programação que inicialmente era chamado de [Mocha], que posteriormente foi mudado.
+A linguagem recebeu muitos nomes, mas o último, como uma estratégia de marketing, foi Javascript. Na época, a linguagem de programação Java era conhecida como a linguagem do futuro, pois se programava uma vez e os programas poderiam funcionar em vários dispositivos diferentes, o que a tornou muito popular.
