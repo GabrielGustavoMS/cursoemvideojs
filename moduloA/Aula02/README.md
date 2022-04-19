@@ -73,4 +73,13 @@ Entre 2009 e 2010, Ryan Dahl criou o uma tecnologia que permitiu que o Javascrip
 
 ![Linha do tempo com os principais tópicos da história do javascript](timelineCursoEmVideo.jpg)
 
-## Outras Tecnologias derivadas do Javascript
+## Outras Tecnologias derivadas ou relacionadas ao Javascript
+
+1. React
+2. React Native
+3. Angular
+4. Vue
+5. Cordova
+6. Ionic
+7. JQuery
+8. Electron
