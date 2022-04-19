@@ -41,4 +41,6 @@ Tornou-se necessário um navegador que suportasse o HTTP e apresentasse páginas
 
 ### **1994** - Netscape
 
-Em 1994, [Marc Andreessen](https://pt.wikipedia.org/wiki/Marc_Andreessen) e Jim Clark fundaram a Netscape Communications Corporation e
+Em 1994, [Marc Andreessen](https://pt.wikipedia.org/wiki/Marc_Andreessen) e Jim Clark fundaram a Netscape Communications Corporation, responsável por criar um navegador que foi muito utilizado, o **Netscape**
+
+_Curiosidade: As equipes dessa empresa eram conhecidas por dar nomes engraçados para seus projetos; um dos projetos recebeu o nome de Mozilla, em homenagem ao monstro japonoês Godzilla_
