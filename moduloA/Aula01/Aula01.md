@@ -34,6 +34,6 @@ Utilizou-se o console do Chrome.
 
 Ao digitar o comando: `alert('Olá mundo !!!')`, obtem-se um pop-up com a mensagem **Olá mundo!!!**
 
-![Resultado do comando alert: retângulo que sobrepõe a página com a mensagem Olá mundo !!!]('olamundo.jpg')
+![Resultado do comando alert: retângulo que sobrepõe a página com a mensagem Olá mundo !!!](olamundo.jpg)
 
 ### Alterarando a cor de fundo da página inicial da Google
