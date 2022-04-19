@@ -61,6 +61,16 @@ A ascensão do navegador Internet explorer, baseado no código do Mosaic, tomou 
 
 Com o tempo, Netscape Corporation faliu, mas grande parte da sua equipe ainda matinha o desejo de criar navegadores e assim, surgiu a fundação Mozilla e seu navegador, o Mozilla Firefox.
 
-### 2008 - O surgimento do Google Chrome
+### 2008 - 2009 - O surgimento do Google Chrome
 
-Em 2008, a Google trouxe para o mercado o seu próprio navegador, o Google Chrome, que em pouco tempo passou a ser extremamente utilizado. Isso se deu principalemte por diferencial, o seu motor de código Javascript, o V8.
+Em 2008, a Google trouxe para o mercado o seu próprio navegador, o Google Chrome, que em pouco tempo passou a ser extremamente utilizado. Isso se deu principalmente por um diferencial, o seu motor de código Javascript, o V8, que possuía código aberto.
+
+### 2009 - 2010 - Node Js e o Javascript no lado do servidor
+
+Entre 2009 e 2010, Ryan Dahl criou o uma tecnologia que permitiu que o Javascript fosse usado do lado do servidor, o [node](https://pt.wikipedia.org/wiki/Node.js), criado com base no motor V8 do Chrome, uma vez que esse possuia código aberto.
+
+## Timeline Diponibilizada Durante o Curso
+
+![Linha do tempo com os principais tópicos da história do javascript](timelineCursoEmVideo.jpg)
+
+## Outras Tecnologias derivadas do Javascript
