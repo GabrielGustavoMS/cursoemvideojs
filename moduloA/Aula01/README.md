@@ -41,3 +41,15 @@ Ao digitar o comando: `alert('Olá mundo !!!')`, obtem-se um pop-up com a mensag
 Ao digitar o comando: `document.body.style.background = 'black'`, altera-se a cor de fundo da página para preto:
 
 ![Resultado da alteração da cor de fundo da página utilizando JS](blackbackground.jpg 'Resultado da alteração da cor de fundo da página utilizando JS')
+
+### Aplicando um filtro Tons de Cinza em uma imagem
+
+Ao digitar o comando `document.querySelector('img').style.filter = 'grayscale(100%)'`, aplica-se um filtro de tons de cinza sobre um elemento imagem `img`.
+
+Imagem antes do filtro:
+![Imagem antes do grayscale](flor.jpg)
+
+Imagem após o filtro:
+![Resultado da imagem após aplicar o filtro de tons de cinza](grayscale.jpg)
+
+_Também é possível utilizar os seletores para selecionar outros conteúdos na página como por exemplo textos_
