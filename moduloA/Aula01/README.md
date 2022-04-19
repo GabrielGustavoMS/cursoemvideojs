@@ -37,3 +37,7 @@ Ao digitar o comando: `alert('Olá mundo !!!')`, obtem-se um pop-up com a mensag
 ![Resultado do comando alert: retângulo que sobrepõe a página com a mensagem Olá mundo !!!](olamundo.jpg 'Resultado do comando alert: retângulo que sobrepõe a página com a mensagem Olá mundo !!!')
 
 ### Alterarando a cor de fundo da página inicial da Google
+
+Ao digitar o comando: `document.body.style.background = 'black'`, altera-se a cor de fundo da página para preto:
+
+![Resultado da alteração da cor de fundo da página utilizando JS](blackbackground.jpg 'Resultado da alteração da cor de fundo da página utilizando JS')
