@@ -26,7 +26,7 @@ No lado do cliente, em conjunto com o HTML e CSS, é utilizado na construção d
 
 _O HTML é responsável pela estrutura de uma página web, enquanto o CSS é responsável por estilizações._
 
-## Prática
+## Práticas
 
 Utilizou-se o console do Chrome.
 
