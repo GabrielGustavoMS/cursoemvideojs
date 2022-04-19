@@ -11,7 +11,7 @@ De acordo com o [wikipedia](https://pt.wikipedia.org/wiki/Modelo_cliente%E2%80%9
 Exemplos de clientes:
 
 - Computador
-- Disposivitivo móvel
+- Dispositivo móvel
 
 Exemplos de servidores:
 
