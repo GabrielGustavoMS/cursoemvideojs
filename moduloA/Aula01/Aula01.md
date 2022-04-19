@@ -25,3 +25,15 @@ Exemplos de servidores:
 No lado do cliente, em conjunto com o HTML e CSS, é utilizado na construção de páginas web, o que inclui aplicar funcionalidades através de uma lógica de programação, ou até mesmo alterações visuais, como a renderização de conteúdo. No lado do servidor, o javascript pode ser utilizado na construção de API's e outras aplicações, cujos recursos serão consumidos pelos clientes.
 
 _O HTML é responsável pela estrutura de uma página web, enquanto o CSS é responsável por estilizações._
+
+## Prática
+
+Utilizou-se o console do Chrome.
+
+### Olá Mundo
+
+Ao digitar o comando: `alert('Olá mundo !!!')`, obtem-se um pop-up com a mensagem **Olá mundo!!!**
+
+![Resultado do comando alert: retângulo que sobrepõe a página com a mensagem Olá mundo !!!]('./olamundo.jpg')
+
+### Alterarando a cor de fundo da página inicial da Google
