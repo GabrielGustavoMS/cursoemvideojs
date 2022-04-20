@@ -1,5 +1,3 @@
-_Essas são anotações pessoais referentes a aula 01, do curso JS do Curso em vídeo._
-
 # Aula 01 - O que o Javascript é capaz de fazer ?
 
 A linguagem de programação Javascript surgiu como uma tecnologia client-side, mas atualmente também pode ser utilizada no lado do servidor.
@@ -55,8 +53,10 @@ Imagem após o filtro:
 _Também é possível utilizar os seletores para selecionar outros elementos na página como por exemplo textos_
 
 ## Referências
-* [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
-* [Pexels](https://www.pexels.com/)
+
+- [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+- [Pexels](https://www.pexels.com/)
 
 ## Próxima Aula
+
 [Aula 02 - Como chegamos até aqui ?](../Aula02/)

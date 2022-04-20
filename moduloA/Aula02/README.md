@@ -1,5 +1,3 @@
-_Essas são anotações pessoais referentes a aula 02, do curso JS do Curso em vídeo._
-
 # Aula 02 - Como chegamos até aqui ?
 
 ## Revisão da Aula 01
@@ -87,7 +85,9 @@ Entre 2009 e 2010, Ryan Dahl criou o uma tecnologia que permitiu que o Javascrip
 _Além das aplicações citadas, o javascript também pode ser utilizado para criar outros tipos de aplicações como jogos_
 
 ## Referências
-* [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+
+- [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
 
 ## Próxima Aula
+
 [Aula 03 - Dando os primeiros passos](../Aula03/)
