@@ -1,4 +1,4 @@
-_Essas são anotações pessoais referentes a aula 01, do curso em vídeo de JS._
+_Essas são anotações pessoais referentes a aula 01, do curso JS do Curso em vídeo._
 
 # Aula 01 - O que o Javascript é capaz de fazer ?
 
