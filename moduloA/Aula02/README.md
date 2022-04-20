@@ -88,3 +88,6 @@ _Além das aplicações citadas, o javascript também pode ser utilizado para cr
 
 ## Referências
 * [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+
+## Próxima Aula
+[Aula 03 - Dando os primeiros passos](../Aula03/)
