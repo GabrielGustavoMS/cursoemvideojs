@@ -57,3 +57,6 @@ _Também é possível utilizar os seletores para selecionar outros elementos na 
 ## Referências
 * [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
 * [Pexels](https://www.pexels.com/)
+
+## Próxima Aula
+[Aula 02 - Como chegamos até aqui ?](../Aula02/)
