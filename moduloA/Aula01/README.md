@@ -53,3 +53,7 @@ Imagem após o filtro:
 ![Resultado da imagem após aplicar o filtro de tons de cinza](grayscale.jpg)
 
 _Também é possível utilizar os seletores para selecionar outros elementos na página como por exemplo textos_
+
+## Referências
+* [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+* [Pexels](https://www.pexels.com/)
