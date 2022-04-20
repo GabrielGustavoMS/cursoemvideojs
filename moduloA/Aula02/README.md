@@ -67,7 +67,7 @@ Em 2008, a Google trouxe para o mercado o seu próprio navegador, o Google Chrom
 
 ### 2009 - 2010 - Node Js e o Javascript no lado do servidor
 
-Entre 2009 e 2010, Ryan Dahl criou o uma tecnologia que permitiu que o Javascript fosse usado do lado do servidor, o [node](https://pt.wikipedia.org/wiki/Node.js), criado com base no motor V8 do Chrome, uma vez que esse possuia código aberto.
+Entre 2009 e 2010, Ryan Dahl criou o uma tecnologia que permitiu que o Javascript fosse usado do lado do servidor, o [node](https://pt.wikipedia.org/wiki/Node.js), criado com base no motor V8 do Chrome, uma vez que esse era opensource.
 
 ## Timeline Diponibilizada Durante o Curso
 
