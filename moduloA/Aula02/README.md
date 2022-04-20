@@ -85,3 +85,6 @@ Entre 2009 e 2010, Ryan Dahl criou o uma tecnologia que permitiu que o Javascrip
 8. Electron
 
 _Além das aplicações citadas, o javascript também pode ser utilizado para criar outros tipos de aplicações como jogos_
+
+## Referências
+* [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
