@@ -20,3 +20,6 @@ _Sim. Pode-se citar:_
 1. O Chat do Discord
 2. O Visual Studio Code
 3. Slack
+
+## Referências
+* [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
