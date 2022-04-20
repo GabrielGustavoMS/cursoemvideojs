@@ -1,4 +1,4 @@
-_Essas são anotações pessoais referentes a aula 02, do curso em vídeo de JS._
+_Essas são anotações pessoais referentes a aula 02, do curso JS do Curso em vídeo._
 
 # Aula 02 - Como chegamos até aqui ?
 
