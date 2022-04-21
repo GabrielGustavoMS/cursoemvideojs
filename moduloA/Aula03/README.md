@@ -47,15 +47,32 @@ Formas de aprendizado:
 1. [Referência JavaScript - Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 2. [JavaScript - w3schools](https://www.w3schools.com/js/)
 
-## Crenças Limitantes
+## Por que você não vai aprender?
 
-Há pessoas que acreditam existem "motivos" que podem impedi-las de aprender a programar.
-Esses estão relacionados à | ao:
+Se você acreditar que não pode aprender algo, por algum fator, provavelmente não irá aprender. Entretanto, o que realmente limita o seu aprendizado é o fato de **acreditar que algo te impede** e não necessariamente a existência de um "fator limitante".
+
+Em aula, esse conceito foi tratado pelo termo **Crença Limitante**. A seguir, alguns exemplos de crenças limitantes:
 
 1. Idade (Ser muito velho ou muito novo)
 2. Gênero
 3. Local de Residência (Morar em cidade pequena)
-4. Não ter o Esteriótipo Nerd
-5. Não saber falar Inglês
+4. Não ter o "Estereótipo Nerd"
+5. Não saber falar Inglês (Saber Inglês ajuda muito, mas não é um requisito obrigatório para começar)
 6. Acreditar que não é necessário aprender lógica de programação ou outros fundamentos
-7. Acreditar que todo programador fica rico
+7. Acreditar que todo programador fica rico rápido (Certamente, programadores iniciantes não são bem remunerados tanto quanto gostariam, o que pode desmotivar alguns de continuar estudando)
+8. Acreditar que existe uma **"melhor liguagem"** para todos os casos.
+9. Acreditar que é necessário fazer projetos grandes logo no início.
+
+## Ferramentas utilizadas
+
+1. Google Chrome
+2. Visual Studio Code, ou outro editor de textos
+3. Node JS
+
+## Referências
+
+- [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+
+## Próxima Aula
+
+[Aula 03 - Dando os primeiros passos](../Aula04/)
