@@ -75,4 +75,4 @@ Em aula, esse conceito foi tratado pelo termo **Crença Limitante**. A seguir, a
 
 ## Próxima Aula
 
-[Aula 04 - Dando os primeiros passos](../Aula04/)
+[Aula 04 - Criando o seu primeiro script](../Aula04/)
