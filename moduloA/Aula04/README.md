@@ -26,3 +26,18 @@ Q04 - Quais programas foram instalados na aula passada?
 1. Node Js
 2. Vs Code
 3. Chrome
+
+## Prática
+
+### Criando um arquivo HTML
+
+1. Clique em File
+2. Clique em New File
+3. Crie uma pasta para manter os arquivos organizados
+4. Salve o arquivo com o nome desejado e com a extensão html. `ex001.html`
+
+Abra o arquivo e digite `html` e selecione `html:5`.
+
+![Imagem ilustra como criar a estrutura html no vscode](html-emmet.jpg)
+
+![estrutura html no vscode](html-estrutura.jpg)
