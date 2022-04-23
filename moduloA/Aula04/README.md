@@ -76,11 +76,11 @@ Resultado do código:<br/>
 ![Estrutura html com comandos](html-estrutura-exemplo.jpg)
 
 Resultado do comando `window.alert('Minha primeira mensagem!')`:<br/>
-![Resultado do comando alert('')](alert.jpg)
+![Resultado do comando alert('')](alert.jpg)<br/><br/>
 Resultado do comando `window.confirm('Está gostando de js?')`:<br/>
-![Resultado do comando confirm('')](confirm.jpg)
+![Resultado do comando confirm('')](confirm.jpg)<br/><br/>
 Resultado do comando `window.prompt('Qual é seu nome?')`:<br/>
-![Resultado do comando prompt('Qual é seu nome?')](prompt.jpg)
+![Resultado do comando prompt('Qual é seu nome?')](prompt.jpg)<br/><br/>
 
 Página HTML:<br/>
 ![Resultado página html](page-html.jpg)
