@@ -41,3 +41,35 @@ Abra o arquivo e digite `html` e selecione `html:5`.
 ![Imagem ilustra como criar a estrutura html no vscode](html-emmet.jpg)
 
 ![estrutura html no vscode](html-estrutura.jpg)
+
+_Obs. Para abrir o arquivo html em um navegador, basta dar um clique duplo sobre ele no explorador de arquivo._
+
+### Entendendo as marcações HMTL 5
+
+O html não é uma linguagem de programação, mas sim de marcação. Dentre de um documento html, cria-se marcações (tags) que indicam e descrevem para o navegador a estrutura, elementos ou "configurações" da página.
+
+As tags são representadas pelos sinais de menor `<` e maior `>`.
+Atualmente, a sintaxe do html é composta principalmente por tags que representam uma região da estrutura html, que são demarcadas por tags de abertura `<tag>` e fechamento `</tag>` e outras que representam elementos ou "configurações", conhecidas como tags com autofechamento, `<tag/>.`
+
+Principais Tags html 5:
+
+1. `<!DOCTYPE html>` => Essa tag indica que o documento está sendo escrito em html 5
+2. `<html lang="pt-br">` => Essa tag indica o início do documento html e `lang="pt-br"` indica o idioma do conteúdo da página
+3. `<head>` => Indica a abertura do cabeçalho da página, região destinada a configuração da página.
+4. `<meta charset="UTF-8" />` => Indica a codificação dos caracteres utilizados no documento.
+5. `<title> </title>` => Indica o título da página
+6. `<style> /*CSS*/ </style>` => Indicam a abertura e fechamento de uma região onde pode se configurar estilos para página, utilizando a linguagem CSS
+7. `</head>` => Indica o fechamento do cabeçalho da página
+8. `<body>` => Indica a abertura do corpo da página (Todo conteúdo que você deseja apresentar deve estar entre essas tags) 9.`<script>` => Indica a abertura de uma região de script. (Nessa região pode-se escrever código javascript).
+9. `</script>` => Indica o fechamento da região de script.
+10. `</body>` => Indica o fechamento da região que representa o corpo da página. 11. `</html>` => Tag de fechamento do documento html.
+
+### Primeiros script javaScript
+
+- `window.alert('Menssagem')` => Exibe uma mensagem em tela
+- `window.confirm('Está gostando de js?')` => Exibe uma mensagem com 2 opções. Cancelar e OK.
+- `window.prompt('Qual é seu nome?')` => Exibe uma entrada em que o usuário pode digitar algum texto
+
+### Resultado
+
+![Estrutura html com comandos](html-estrutura-exemplo.jpg)
