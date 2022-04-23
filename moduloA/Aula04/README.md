@@ -84,3 +84,11 @@ Resultado do comando `window.prompt('Qual é seu nome?')`:<br/><br/>
 
 Página HTML:<br/><br/>
 ![Resultado página html](page-html.jpg)
+
+## Referências
+
+- [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+
+## Próxima Aula
+
+[Módulo B - Aula 05](../../moduloB/Aula05/)
