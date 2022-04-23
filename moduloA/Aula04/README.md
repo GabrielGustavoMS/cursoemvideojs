@@ -66,10 +66,21 @@ Principais Tags html 5:
 
 ### Primeiros script javaScript
 
-- `window.alert('Menssagem')` => Exibe uma mensagem em tela
+- `window.alert('Mensagem')` => Exibe uma mensagem em tela
 - `window.confirm('Está gostando de js?')` => Exibe uma mensagem com 2 opções. Cancelar e OK.
 - `window.prompt('Qual é seu nome?')` => Exibe uma entrada em que o usuário pode digitar algum texto
 
 ### Resultado
 
+Resultado do código:
 ![Estrutura html com comandos](html-estrutura-exemplo.jpg)
+
+Resultado do comando `window.alert('Minha primeira mensagem!')`:
+![Resultado do comando alert('')](alert.jpg)
+Resultado do comando `window.confirm('Está gostando de js?')`:
+![Resultado do comando confirm('')](confirm.jpg)
+Resultado do comando `window.prompt('Qual é seu nome?')`:
+![Resultado do comando prompt('Qual é seu nome?')](prompt.jpg)
+
+Página HTML:
+![Resultado página html](page-html.jpg)
