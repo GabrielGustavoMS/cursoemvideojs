@@ -75,12 +75,12 @@ Principais Tags html 5:
 Resultado do código:<br/>
 ![Estrutura html com comandos](html-estrutura-exemplo.jpg)
 
-Resultado do comando `window.alert('Minha primeira mensagem!')`:<br/>
-![Resultado do comando alert('')](alert.jpg)<br/><br/>
-Resultado do comando `window.confirm('Está gostando de js?')`:<br/>
-![Resultado do comando confirm('')](confirm.jpg)<br/><br/>
-Resultado do comando `window.prompt('Qual é seu nome?')`:<br/>
-![Resultado do comando prompt('Qual é seu nome?')](prompt.jpg)<br/><br/>
+Resultado do comando `window.alert('Minha primeira mensagem!')`:<br/><br/>
+![Resultado do comando alert('')](alert.jpg)<br/><br/><br/>
+Resultado do comando `window.confirm('Está gostando de js?')`:<br/><br/>
+![Resultado do comando confirm('')](confirm.jpg)<br/><br/><br/>
+Resultado do comando `window.prompt('Qual é seu nome?')`:<br/><br/>
+![Resultado do comando prompt('Qual é seu nome?')](prompt.jpg)<br/><br/><br/>
 
-Página HTML:<br/>
+Página HTML:<br/><br/>
 ![Resultado página html](page-html.jpg)
