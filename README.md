@@ -8,3 +8,7 @@ Esse repositório contém anotações referentes as aulas de **Javascript** do C
 - [Aula 02 - Como chegamos até aqui ?](/moduloA/Aula02/)
 - [Aula 03 - Dando os primeiros passos](/moduloA/Aula03/)
 - [Aula 04 - Criando o seu primeiro script](/moduloA/Aula04/)
+
+## Módulo B
+
+- [Aula 05 - Variáveis e Tipos Primitivos](/moduloB/Aula05/)
