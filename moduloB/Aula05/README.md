@@ -57,3 +57,5 @@ Regras para definição de nomes de variáveis
 - Não podem começar com números
 - Não podem conter espaços
 - Não podem ser palavras reservadas da linguagem
+
+_Obs. JavaScript é Case-sensitive, então ele irá diferenciar letras em maiúsculo e minúsculo_
