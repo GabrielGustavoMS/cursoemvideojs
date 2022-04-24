@@ -62,3 +62,13 @@ Regras para definição de nomes de variáveis
 - Nomes pouco descritivos como `n1, n2, a, b, c` podem ser difíceis de se entender
 
 _Obs. JavaScript é Case-sensitive, então ele irá diferenciar letras em maiúsculo e minúsculo_
+
+### Principais tipos primitivos
+
+- number
+- string
+- boolean
+- null
+- undefined
+- object
+- function
