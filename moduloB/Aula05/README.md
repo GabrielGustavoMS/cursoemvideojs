@@ -58,4 +58,7 @@ Regras para definição de nomes de variáveis
 - Não podem conter espaços
 - Não podem ser palavras reservadas da linguagem
 
+- Nomes devem ser coerentes com o significado da variável
+- Nomes pouco descritivos como `n1, n2, a, b, c` podem ser difíceis de se entender
+
 _Obs. JavaScript é Case-sensitive, então ele irá diferenciar letras em maiúsculo e minúsculo_
