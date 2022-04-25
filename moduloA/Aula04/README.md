@@ -85,6 +85,12 @@ Resultado do comando `window.prompt('Qual é seu nome?')`:<br/><br/>
 Página HTML:<br/><br/>
 ![Resultado página html](page-html.jpg)
 
+#### Curiosidade
+
+_Obs. Há uma lenda entre os programadores e ela diz que existe uma maldição. Seu 1º comando em uma tecnologia nova deve ser o Hello World ou o seu correspondente em outra lingua e caso não seja, você jamais aprenderá._
+
+_Porque arriscar, né?_ &#128514;
+
 ## Referências
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
