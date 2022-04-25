@@ -58,17 +58,51 @@ Regras para definição de nomes de variáveis
 - Não podem conter espaços
 - Não podem ser palavras reservadas da linguagem
 
-- Nomes devem ser coerentes com o significado da variável
+- Nomes devem ser **coerentes com o significado** da variável
 - Nomes pouco descritivos como `n1, n2, a, b, c` podem ser difíceis de se entender
 
 _Obs. JavaScript é Case-sensitive, então ele irá diferenciar letras em maiúsculo e minúsculo_
 
 ### Principais tipos primitivos
 
-- number
-- string
-- boolean
+- number (inteiros, reais, Infinity, NaN)
+- string (Exemplos: "Google", 'Js', \`Mary\`)
+- boolean (true e false)
 - null
 - undefined
 - object
 - function
+
+## Prática
+
+Inicialmente, abriu-se o terminal do node js e digitou-se alguns comandos: <br/>
+
+- `'Oi'` => Retorna uma string com a palavra 'Oi'
+- `2+3` => Retorna o resultado da adição 2 + 3
+- `var name = 'Gabriel'` => Cria variável name e atribui a ela o valor 'Gabriel'
+- `name = 'Gustavo'` => Altera o valor da variável name para 'Gustavo'
+- `.exit` => Sai do terminal
+  <br/>
+  <br/>
+  ![Terminal node js com alguns comandos](pratica-terminal.jpg)
+
+  _Obs. Para abrir o terminal do node js dentro do terminal do vscode, basta digitar `node`_
+  <br/>
+
+  ![Terminal interno do vscode com node js](terminal-interno-vscode.jpg)
+
+### Descobrindo o tipo de uma variável
+
+Pode-se utilizar o comando `typeof` seguido de um identificador de variável ou de um valor para consultar seu tipo
+<br/>
+<br/>
+
+![Exemplificando o uso de typeof](terminal-interno-typeof.jpg)
+
+### Número de terminais no vscode
+
+Pode-se abrir mais de um terminal no vscode, mas o número de terminais abertos impacta no desempenho da máquina. Assim, para não sofrer problemas de desempenho, recomenda-se digitar o comando `exit` para matar o terminal do **vscode** e `.exit` para matar o terminal do **nodejs**
+<br/>
+<br/>
+
+![Figura demonstrando o número de terminais abertos vscode](numero-de-terminais.jpg)
