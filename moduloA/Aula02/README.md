@@ -87,6 +87,7 @@ _Além das aplicações citadas, o javascript também pode ser utilizado para cr
 ## Referências
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+- [Wikipedia](https://www.wikipedia.org/)
 
 ## Próxima Aula
 
