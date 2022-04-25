@@ -89,7 +89,7 @@ Página HTML:<br/><br/>
 
 _Obs. Há uma lenda entre os programadores e ela diz que existe uma maldição. Seu 1º comando em uma tecnologia nova deve ser o Hello World ou o seu correspondente em outra lingua e caso não seja, você jamais aprenderá._
 
-_Porque arriscar, né?_ &#128514;
+_Por que arriscar, né?_ &#128514;
 
 ## Referências
 
