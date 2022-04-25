@@ -46,6 +46,8 @@ Pode-se considerar a analogia de um estacionamento:
 Atualmente, há mais de uma maneira de se definir uma variável. A forma mais comum é utilizando a palavra reservada `var` seguida de um identificador, um sinal de atribuição `=` e um valor. Exemplo:
 `var number = 2`
 
+_Também pode-se utilizar const e let_
+
 ### Identificadores
 
 Regras para definição de nomes de variáveis
