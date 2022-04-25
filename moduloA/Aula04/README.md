@@ -97,4 +97,4 @@ _Por que arriscar, né?_ &#128514;
 
 ## Próxima Aula
 
-[Módulo B - Aula 05](../../moduloB/Aula05/)
+[Aula 05 - Variáveis e Tipos Primitivos](../../moduloB/Aula05/)

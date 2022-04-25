@@ -12,3 +12,4 @@ Esse repositório contém anotações referentes as aulas de **Javascript** do C
 ## Módulo B
 
 - [Aula 05 - Variáveis e Tipos Primitivos](/moduloB/Aula05/)
+- [Aula 06 - Tratamento de dados](/moduloB/Aula06/)

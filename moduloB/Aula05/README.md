@@ -106,3 +106,7 @@ Pode-se abrir mais de um terminal no vscode, mas o número de terminais abertos 
 <br/>
 
 ![Figura demonstrando o número de terminais abertos vscode](numero-de-terminais.jpg)
+
+## Próxima Aula
+
+[Aula 06 - Tratamento de dados](../../moduloB/Aula06/)
