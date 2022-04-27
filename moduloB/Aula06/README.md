@@ -100,7 +100,7 @@ Nessa solução, basicamente replica-se a solução do 1º problema, contida no 
 
 ![resultado solucao 01 problema 02](aula06-pratica02-03-solucao01.jpg)
 
-Obteve-se 12 como resultado, ou seja, a solução está incorreta e não resolve o problema.
+Obteve-se 12 como resultado, ou seja, a solução está incorreta e não resolve o problema. Isso ocorreu porque ao converter um número real para inteiro, a parte real é "ignorada".
 
 **Solução 2**
 Para essa solução, utiliza-se o comando `Number.parseFloat()` para converter as entradas para números reais.
