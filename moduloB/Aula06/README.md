@@ -72,9 +72,9 @@ Na 2ª solução realizamos a conversão das entradas em formato de string para 
 `Number.parseInt()`
 
 `<script>` <br/>
-&nbsp; &nbsp;`var numb1 = Number.parseInt(window.prompt('Digite um número'))`
-&nbsp; &nbsp;`var numb2 = Number.parseInt(window.prompt('Digite outro número'))`
-&nbsp; &nbsp;`window.alert('O resultado da adição é: ' + (numb1 + numb2))`
+&nbsp; &nbsp;`var numb1 = Number.parseInt(window.prompt('Digite um número'))` <br/>
+&nbsp; &nbsp;`var numb2 = Number.parseInt(window.prompt('Digite outro número'))` <br/>
+&nbsp; &nbsp;`window.alert('O resultado da adição é: ' + (numb1 + numb2))` <br/>
 `</script>`
 
 ![Script solução 02](aula06-pratica02-solucao02.jpg)
