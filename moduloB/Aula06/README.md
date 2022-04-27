@@ -78,6 +78,7 @@ Na 2ª solução realizamos a conversão das entradas em formato de string para 
 `</script>`
 
 ![Script solução 02](aula06-pratica02-solucao02.jpg)
+
 ![Resultado Solução 02](aula06-pratica02-solucao02-resultado.jpg)
 
 Note que a solução 2 resolve o problema, pois soma corretamente os números.
