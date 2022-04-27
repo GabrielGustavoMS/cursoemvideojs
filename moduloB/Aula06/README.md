@@ -83,6 +83,38 @@ Na 2ª solução realizamos a conversão das entradas em formato de string para 
 
 Note que a solução 2 resolve o problema, pois soma corretamente os números.
 
+#### Problema 02 - Somar 2 números reais
+
+Imagine que precisamos somar 2 entradas (6.5 e 6.5) digitadas por um usuário e exibir o resultado em tela, que deve corresponder a 13. Desse modo testamos as seguintes soluções:
+
+**Solução 1**
+Nessa solução, basicamente replica-se a solução do 1º problema, contida no [script ex003-02.js](https://github.com/GabrielGustavoMS/cursoemvideojs/blob/main/moduloB/Aula06/ex003-02.js).
+
+`<script>` <br/>
+&nbsp; &nbsp;`var numb1 = Number.parseInt(window.prompt('Digite um número'))` <br/>
+&nbsp; &nbsp;`var numb2 = Number.parseInt(window.prompt('Digite outro número'))` <br/>
+&nbsp; &nbsp;`window.alert('O resultado da adição é: ' + (numb1 + numb2))` <br/>
+`</script>`
+
+![code solucao 02 problema 02](aula06-pratica02-03-solucao01-code.jpg)
+
+![resultado solucao 01 problema 02](aula06-pratica02-03-solucao01.jpg)
+
+Obteve-se 12 como resultado, ou seja, a solução está incorreta e não resolve o problema.
+
+**Solução 2**
+Para essa solução, utiliza-se o comando `Number.parseFloat()` para converter as entradas para números reais.
+
+`<script>` <br/>
+&nbsp; &nbsp;`var numb1 = Number.parseFloat(window.prompt('Digite um número'))` <br/>
+&nbsp; &nbsp;`var numb2 = Number.parseFloat(window.prompt('Digite outro número'))` <br/>
+&nbsp; &nbsp;`window.alert('O resultado da adição é: ' + (numb1 + numb2))` <br/>
+`</script>`
+
+![code solucao 02 problema 02](aula06-pratica02-03-solucao02-code.jpg)
+
+![resultado solucao 02 problema 02](aula06-pratica02-03-solucao02.jpg)
+
 ## Referências
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
