@@ -51,10 +51,10 @@ Imagine que precisamos somar 2 entradas (2 e 5) digitadas por um usuário e exib
 
 **Solução 1**
 
-`<script>`
-`var numb1 = window.prompt('Digite um número')`
-`var numb2 = window.prompt('Digite outro número')`
-`window.alert('O resultado da adição é: ' + (numb1 + numb2))`
+`<script>` <br/>
+&nbsp; &nbsp;`var numb1 = window.prompt('Digite um número')` <br/>
+&nbsp; &nbsp;`var numb2 = window.prompt('Digite outro número')` <br/>
+&nbsp; &nbsp;`window.alert('O resultado da adição é: ' + (numb1 + numb2))` <br/>
 `</script>`
 
 ![Possível solução ](aula06-pratica02-solucao01.jpg)
