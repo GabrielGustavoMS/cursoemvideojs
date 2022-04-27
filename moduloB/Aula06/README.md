@@ -24,7 +24,7 @@ Significa que o valor que estiver armazenado nessa variável será substituído 
 
 ## Prática
 
-### Utilizando uma variável com prompt() e alert()
+### 01 - Utilizando uma variável com prompt() e alert()
 
 Reutilizando o [código da aula 04](https://github.com/GabrielGustavoMS/cursoemvideojs/tree/main/moduloA/Aula04/ex001.html), criou-se um script com o exemplo de uso de uma variável, capturando o nome de uma pessoa e atribuindo a uma variável através do comando `var nome = window.prompt('Qual é seu nome?')`. Em seguida, exibiu-se em tela uma mensagem com o comando `window.alert('Seja bem vindo ' + nome + '!')`.
 
@@ -41,11 +41,15 @@ Resultado do comando `window.alert('Seja bem vindo ' + nome + '!')`:<br/><br/>
 [Script ex002](https://github.com/GabrielGustavoMS/cursoemvideojs/tree/main/moduloB/Aula06/ex002.html)
 ![Imagem com código do ex002](aula06-pratica01-code.jpg)
 
-### Convertendo tipos
+### 02 - Convertendo tipos
 
 O comando `window.prompt()` sempre devolverá uma **string**, mas as vezes é necessário utilizar outros tipos. Para isso, pode-se utilizar conversões de tipos.
 
-#### Resultado
+Um exemplo disso é a operação de adição; o operador `+` é utilizado para adição e concatenação. A adição ocorre quando ele está entre números somente e quando a uma string como um dos operandos, ocorrerá a concatenação.
+
+Usa-se `(` e `)` para alterar a ordem de precedência dos operadores, de forma semelhante a matemática.
+
+#### Problema 01 - Somar 2 números inteiros
 
 Imagine que precisamos somar 2 entradas (2 e 5) digitadas por um usuário e exibir o resultado em tela, que deve corresponder a 7. Desse modo testamos as seguintes soluções:
 
@@ -59,11 +63,24 @@ Imagine que precisamos somar 2 entradas (2 e 5) digitadas por um usuário e exib
 
 ![Possível solução ](aula06-pratica02-solucao01.jpg)
 
-![resultado diferente do esperado. os numeros foram concatenados, mas não somados](aula06-pratica02-numeros-tratados-como-string.jpg)
+![resultado diferente do esperado. os números foram concatenados, mas não somados](aula06-pratica02-numeros-tratados-como-string.jpg)
 
-A solução 1 na verdade apresenta um resultado incorreto, pois a adição não deveria resultar em 25.
+A solução 1 na verdade apresenta um resultado incorreto, pois a adição não deveria resultar em 25. Desse modo, verifica-se que os 2 números digitados pelo usuário estão sendo tratados como string.
 
 **Solução 2**
+Na 2ª solução realizamos a conversão das entradas em formato de string para números inteiros utilizando o comando:  
+`Number.parseInt()`
+
+`<script>` <br/>
+&nbsp; &nbsp;`var numb1 = Number.parseInt(window.prompt('Digite um número'))`
+&nbsp; &nbsp;`var numb2 = Number.parseInt(window.prompt('Digite outro número'))`
+&nbsp; &nbsp;`window.alert('O resultado da adição é: ' + (numb1 + numb2))`
+`</script>`
+
+![Script solução 02](aula06-pratica02-solucao02.jpg)
+![Resultado Solução 02](aula06-pratica02-solucao02-resultado.jpg)
+
+Note que a solução 2 resolve o problema, pois soma corretamente os números.
 
 ## Referências
 
