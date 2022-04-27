@@ -41,6 +41,30 @@ Resultado do comando `window.alert('Seja bem vindo ' + nome + '!')`:<br/><br/>
 [Script ex002](https://github.com/GabrielGustavoMS/cursoemvideojs/tree/main/moduloB/Aula06/ex002.html)
 ![Imagem com código do ex002](aula06-pratica01-code.jpg)
 
+### Convertendo tipos
+
+O comando `window.prompt()` sempre devolverá uma **string**, mas as vezes é necessário utilizar outros tipos. Para isso, pode-se utilizar conversões de tipos.
+
+#### Resultado
+
+Imagine que precisamos somar 2 entradas (2 e 5) digitadas por um usuário e exibir o resultado em tela, que deve corresponder a 7. Desse modo testamos as seguintes soluções:
+
+**Solução 1**
+
+`<script>`
+`var numb1 = window.prompt('Digite um número')`
+`var numb2 = window.prompt('Digite outro número')`
+`window.alert('O resultado da adição é: ' + (numb1 + numb2))`
+`</script>`
+
+![Possível solução ](aula06-pratica02-solucao01.jpg)
+
+![resultado diferente do esperado. os numeros foram concatenados, mas não somados](aula06-pratica02-numeros-tratados-como-string.jpg)
+
+A solução 1 na verdade apresenta um resultado incorreto, pois a adição não deveria resultar em 25.
+
+**Solução 2**
+
 ## Referências
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
