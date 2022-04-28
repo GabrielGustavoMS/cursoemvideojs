@@ -141,6 +141,8 @@ usandoTemplateString = `O aluno ${nome} tirou ${nota} em ${disciplina}! `
 
 Abaixo uma captura de tela comparando as [2 formas aprensentadas](pratica-node-01.js).
 
+![Demonstração do uso de template string com o terminal do node js](pratica-node-01.jpg)
+
 ## Referências
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
