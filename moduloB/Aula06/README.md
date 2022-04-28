@@ -115,6 +115,16 @@ Para essa solução, utiliza-se o comando `Number.parseFloat()` para converter a
 
 ![resultado solucao 02 problema 02](aula06-pratica02-03-solucao02.jpg)
 
+### Usando template string no terminal com node
+
+Inicialmente, a forma apresentada para unir variáveis a uma string foi utilizando a **concatenação**, mas também há outras formas, uma delas é usando **template string**. Considere as seguintes variáveis:
+
+- `nome = 'Gabriel Gustavo'`
+- `nota = '10'`
+- `disciplina = 'Técnicas para converter dados em conhecimento'`
+
+Imagine que queremos escrever uma frase informando a nota do aluno em uma disciplina.
+
 ## Referências
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
