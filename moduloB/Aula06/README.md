@@ -145,7 +145,7 @@ Abaixo uma captura de tela comparando as [2 formas aprensentadas](pratica-node-0
 
 ### 03 - Formatando strings
 
-- `var s = 'JavaScript'`
+- `var s = 'JavaScript'` => define o valor da variável s como JavaScript
 - `s.length` => quantos caracteres a string tem
 - `s.toUpperCase()` => formata a string mudando todos os seus caracteres para **MAIÚSCULO**
 - `s.toLowerCase()` => formata a string mudando todos os seus caracteres para **minúsuclo**
@@ -153,6 +153,8 @@ Abaixo uma captura de tela comparando as [2 formas aprensentadas](pratica-node-0
 Acesse o [exemplo](ex004.html) de formatação de string ou veja a figura abaixo:
 
 ![demonstração da formatção de string](formatando-string-01.jpg)
+
+_Para escrever os valores do js no corpo do html utilizou-se o comando `document.write()`._
 
 ## Referências
 
