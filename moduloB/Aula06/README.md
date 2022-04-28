@@ -139,6 +139,8 @@ Exemplo:
 usandoTemplateString = `O aluno ${nome} tirou ${nota} em ${disciplina}! `
 <br/><br/>
 
+Abaixo uma captura de tela comparando as [2 formas aprensentadas](pratica-node-01.js).
+
 ## Referências
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
