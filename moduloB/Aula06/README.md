@@ -175,4 +175,4 @@ Você pode acessar o [exemplo](ex004.js) ou visualizá-lo abaixo:
 
 ## Próxima Aula
 
-[Aula 07](../../moduloB/Aula07/)
+[Aula 07 - Operadores](../../moduloB/Aula07/)
