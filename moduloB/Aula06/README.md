@@ -131,6 +131,14 @@ Note que, como visto anteriormente, para utilizar concatenação basta colocar o
 Exemplo:
 `usandoConcatenacao = 'O aluno ' + nome + ' tirou ' + nota + ' em ' + disciplina + '!'`
 
+**Solução 02 - Usando template string**
+
+Já para utilizar template string é necessário trocar ' ou " por crase \` e usar uma estrutura chamada de placeholder.
+Basicamente, a variável é precedida por um sinal ${ e sucedida por }.
+Exemplo:
+usandoTemplateString = `O aluno ${nome} tirou ${nota} em ${disciplina}! `
+<br/><br/>
+
 ## Referências
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
