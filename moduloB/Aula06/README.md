@@ -152,11 +152,27 @@ Abaixo uma captura de tela comparando as [2 formas aprensentadas](pratica-node-0
 
 Acesse o [exemplo](ex004.html) de formatação de string ou veja a figura abaixo:
 
-![demonstração da formatção de string](formatando-string-01.jpg)
+![demonstração da formatação de string](formatando-string-01.jpg)
 
 _Para escrever os valores do js no corpo do html utilizou-se o comando `document.write()`._
+
+### 04 - Formatando números
+
+Dentre os principais métodos de formatação de números pode-se citar:
+
+- `.toFixed(n)`=> Onde n representa o número de casas decimais que serão apresentadas
+- `.replace('.',',')` => Substituí um caractere por outro, nesse caso troca ponto por vírgula
+- `toLocaleString()` => Não é tão comum, mas pode ser usado para formatar um número como um valor monetário
+
+Você pode acessar o [exemplo](ex004.js) ou visualizá-lo abaixo:
+
+![demonstração da formatação de número](pratica-node-02-formatando-numeros.jpg)
 
 ## Referências
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
 - [Wikipedia - Variável](<https://pt.wikipedia.org/wiki/Vari%C3%A1vel_(programa%C3%A7%C3%A3o)>)
+
+## Próxima Aula
+
+[Aula 07](../../moduloB/Aula07/)
