@@ -143,6 +143,15 @@ Abaixo uma captura de tela comparando as [2 formas aprensentadas](pratica-node-0
 
 ![Demonstração do uso de template string com o terminal do node js](pratica-node-01.jpg)
 
+## Formatando strings
+
+- `var s = 'JavaScript'`
+- `s.length` => quantos caracteres a string tem
+- `s.toUpperCase()` => formata a string mudando todos os seus caracteres para **MAIÚSCULO**
+- `s.toLowerCase()` => formata a string mudando todos os seus caracteres para **minúsuclo**
+
+Acesse o [exemplo](ex004.html) de formatação de string
+
 ## Referências
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
