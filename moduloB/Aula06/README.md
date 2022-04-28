@@ -125,6 +125,12 @@ Inicialmente, a forma apresentada para unir variáveis a uma string foi utilizan
 
 Imagine que queremos escrever uma frase informando a nota do aluno em uma disciplina.
 
+**Soulção 01 - Usando concatenação**
+
+Note que, como visto anteriormente, para utilizar concatenação basta colocar o sinal `+` entre uma string e uma variável.
+Exemplo:
+`usandoConcatenacao = 'O aluno ' + nome + ' tirou ' + nota + ' em ' + disciplina + '!'`
+
 ## Referências
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
