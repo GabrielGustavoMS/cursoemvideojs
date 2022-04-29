@@ -34,7 +34,9 @@ Os **operadores** são símbolos que representam determinadas operações que s�
 
 Exemplo: `2 + 3`, nesse caso 2 e 3 são operandos e + é o operador.
 
-## Operadores aritméticos
+### Operadores aritméticos
+
+Esse operadores são reponsáveis por operações matemáticas, tais como:
 
 - Adição: `5 + 2` => 7
 - Subtração: `5 - 2` => 3
@@ -42,6 +44,19 @@ Exemplo: `2 + 3`, nesse caso 2 e 3 são operandos e + é o operador.
 - Divisão: `5 / 2` => 2.5
 - Resto da divisão inteira: `5 % 2` => 1
 - Potência: `5 ** 2` => 25
+
+### Operadores de atribuição
+
+Esses operadores são responsáveis por atribuir / associar um valor a uma variável; principais exemplos:
+
+- Atribuição Simples: `var a = 5 + 2`
+- Auto Atribuição: `var n = n + 1`, `var n = n - 1`,`var n = n * 2`,`var n = n / 13`, `var n = n % 5`, `var n = n ** 2`
+- Atribuição de Adição: `var n += 1`
+- Atribuição de Subtração: `var -= 1`
+- Atribuição de Multiplicação: `var *= 2`
+- Atribuição de Divisão: `var /= 13`
+- Atribuição de Resto: `var %= 5`
+- Atribuição de Potência: `**= 2`
 
 Outros exemplos a seguir:<br/>
 ![Exemplos de operadores Aritmeticos no terminal do node js](operadoresAritmeticos.jpg)
