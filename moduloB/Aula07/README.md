@@ -49,7 +49,7 @@ Como na matemática, as operações são realizadas em uma ordem específica, a 
 
 _Note que é possível alterar a precedência utilizando parênteses `(` `)`_
 
-Ordem de precedência dos principais operadores:
+Ordem de precedência dos principais operadores, da mais alta para a mais baixa:
 
 1. `( )`
 2. `**`
