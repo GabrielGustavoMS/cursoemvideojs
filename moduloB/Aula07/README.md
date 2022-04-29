@@ -48,6 +48,8 @@ Esse operadores são reponsáveis por operações matemáticas, tais como:
 Outros exemplos a seguir:<br/>
 ![Exemplos de operadores Aritmeticos no terminal do node js](operadoresAritmeticos.jpg)
 
+Para saber mais sobre os operadores de aritméticos js, consulte o [manual da mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators#operadores_aritmeticos)
+
 ### Operadores de atribuição
 
 Esses operadores são responsáveis por atribuir / associar um valor a uma variável; principais exemplos:
@@ -60,6 +62,8 @@ Esses operadores são responsáveis por atribuir / associar um valor a uma vari�
 - Atribuição de Divisão: `var /= 13`
 - Atribuição de Resto: `var %= 5`
 - Atribuição de Potência: `**= 2`
+
+Para saber mais sobre os operadores de atribuição js, consulte o [manual da mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators)
 
 ### Operadores de Incremento de Decremento
 
