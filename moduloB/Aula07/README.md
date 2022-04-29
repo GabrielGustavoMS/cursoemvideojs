@@ -34,14 +34,6 @@ Os **operadores** são símbolos que representam determinadas operações que s�
 
 Exemplo: `2 + 3`, nesse caso 2 e 3 são operandos e + é o operador.
 
-## Precedência dos operados
-
-Como na matemática, as operações são realizadas em uma ordem específica, a precedência. A precedência determina qual operação deve ser realizada primeiro.
-
-_Note que é possível alterar a precedência utilizando parênteses `(` `)`_
-
-Você pode consultar a ordem de precedência no [manual de desenvolvedores js da mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
-
 ## Operadores aritméticos
 
 - Adição: `5 + 2` => 7
@@ -50,3 +42,18 @@ Você pode consultar a ordem de precedência no [manual de desenvolvedores js da
 - Divisão: `5 / 2` => 2.5
 - Resto da divisão inteira: `5 % 2` => 1
 - Potência: `5 ** 2` => 25
+
+## Precedência dos operados
+
+Como na matemática, as operações são realizadas em uma ordem específica, a precedência. A precedência determina qual operação deve ser realizada primeiro.
+
+_Note que é possível alterar a precedência utilizando parênteses `(` `)`_
+
+Ordem de precedência dos principais operadores:
+
+1. `( )`
+2. `**`
+3. `* / %`
+4. `+ -`
+
+Você pode saber mais sobre a ordem de precedência no [manual de desenvolvedores js da mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
