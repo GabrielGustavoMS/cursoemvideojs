@@ -38,7 +38,9 @@ Exemplo: `2 + 3`, nesse caso 2 e 3 são operandos e + é o operador.
 
 Como na matemática, as operações são realizadas em uma ordem específica, a precedência. A precedência determina qual operação deve ser realizada primeiro.
 
-_Você pode consultar a ordem de precedência no [manual de desenvolvedores js da mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)_
+_Note que é possível alterar a precedência utilizando parênteses `(` `)`_
+
+Você pode consultar a ordem de precedência no [manual de desenvolvedores js da mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 
 ## Operadores aritméticos
 
