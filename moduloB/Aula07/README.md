@@ -22,9 +22,21 @@ Pode utilizar o método: `.toLocaleString()`. Veja o exemplo abaixo:<br/>
 `console.log(numbLC)`<br/>
 **Usando o node, como saída obteremos: R$13.00**
 
+## Tipos de Operadores
+
+Os **operadores** são símbolos que representam determinadas operações que são aplicadas sobre os **operandos**. Os principais tipos de operação que classificam os operadores são:
+
+- Aritméticos
+- Atribuição
+- Relacionais
+- Lógico
+- Ternário
+
+Exemplo: `2 + 3`, nesse caso 2 e 3 são operandos e + é o operador.
+
 ## Precedência dos operados
 
-Como na matemática, as operações são realizadas em uma orderm específica, a precedência. A precedência determina qual operação deve ser realizada primeiro.
+Como na matemática, as operações são realizadas em uma ordem específica, a precedência. A precedência determina qual operação deve ser realizada primeiro.
 
 _Você pode consultar a ordem de precedência no [manual de desenvolvedores js da mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)_
 
@@ -35,4 +47,4 @@ _Você pode consultar a ordem de precedência no [manual de desenvolvedores js d
 - Multiplicação: `5 * 2` => 10
 - Divisão: `5 / 2` => 2.5
 - Resto da divisão inteira: `5 % 2` => 1
-- Pontência: `5 ** 2` => 25
+- Potência: `5 ** 2` => 25
