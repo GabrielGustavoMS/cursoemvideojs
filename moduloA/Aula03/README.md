@@ -72,6 +72,7 @@ Em aula, esse conceito foi tratado pelo termo **Crença Limitante**. A seguir, a
 ## Referências
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+- [Notas Aula 02](../Aula02/)
 
 ## Próxima Aula
 
