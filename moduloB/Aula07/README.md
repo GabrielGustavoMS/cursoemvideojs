@@ -21,3 +21,18 @@ Pode utilizar o método: `.toLocaleString()`. Veja o exemplo abaixo:<br/>
 `numbLC = numb.toLocaleString('pt-BR',{style: currency, currency: 'BRL'})`<br/>
 `console.log(numbLC)`<br/>
 **Usando o node, como saída obteremos: R$13.00**
+
+## Precedência dos operados
+
+Como na matemática, as operações são realizadas em uma orderm específica, a precedência. A precedência determina qual operação deve ser realizada primeiro.
+
+_Você pode consultar a ordem de precedência no [manual de desenvolvedores js da mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)_
+
+## Operadores aritméticos
+
+- Adição: `5 + 2` => 7
+- Subtração: `5 - 2` => 3
+- Multiplicação: `5 * 2` => 10
+- Divisão: `5 / 2` => 2.5
+- Resto da divisão inteira: `5 % 2` => 1
+- Pontência: `5 ** 2` => 25
