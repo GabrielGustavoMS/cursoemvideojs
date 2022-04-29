@@ -43,6 +43,9 @@ Exemplo: `2 + 3`, nesse caso 2 e 3 são operandos e + é o operador.
 - Resto da divisão inteira: `5 % 2` => 1
 - Potência: `5 ** 2` => 25
 
+Outros exemplos a seguir:<br/>
+![Exemplos de operadores Aritmeticos no terminal do node js](operadoresAritmeticos.jpg)
+
 ## Precedência dos operados
 
 Como na matemática, as operações são realizadas em uma ordem específica, a precedência. A precedência determina qual operação deve ser realizada primeiro.
