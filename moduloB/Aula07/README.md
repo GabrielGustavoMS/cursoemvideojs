@@ -36,7 +36,7 @@ Exemplo: `2 + 3`, nesse caso 2 e 3 são operandos e + é o operador.
 
 ### Operadores aritméticos
 
-Esse operadores são reponsáveis por operações matemáticas, tais como:
+Esses operadores são responsáveis por operações matemáticas, tais como:
 
 - Adição: `5 + 2` => 7
 - Subtração: `5 - 2` => 3
@@ -102,3 +102,12 @@ Ordem de precedência dos principais operadores, da mais alta para a mais baixa:
 4. `+ -`
 
 Você pode saber mais sobre a ordem de precedência no [manual de desenvolvedores js da mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+
+## Referências
+
+- [Operadores - Developer Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators)
+- [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+
+## Próxima Aula
+
+[Aula 08 - Operadores parte 2](../../moduloB/Aula08/)
