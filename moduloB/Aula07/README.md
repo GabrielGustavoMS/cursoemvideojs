@@ -111,4 +111,4 @@ Você pode saber mais sobre a ordem de precedência no [manual de desenvolvedore
 
 ## Próxima Aula
 
-[Aula 08 - Operadores parte 2](../../moduloB/Aula08/)
+[Aula 08 - Operadores Parte 2](../../moduloB/Aula08/)
