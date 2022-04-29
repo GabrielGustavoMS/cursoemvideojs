@@ -164,7 +164,7 @@ Dentre os principais métodos de formatação de números pode-se citar:
 
 - `.toFixed(n)`=> Onde n representa o número de casas decimais que serão apresentadas
 - `.replace('.',',')` => Substituí um caractere por outro, nesse caso troca ponto por vírgula
-- `toLocaleString()` => Não é tão comum, mas pode ser usado para formatar um número como um valor monetário
+- `.toLocaleString()` => Não é tão comum, mas pode ser usado para formatar um número como um valor monetário
 
 Você pode acessar o [exemplo](ex004.js) ou visualizá-lo abaixo:
 
