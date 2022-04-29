@@ -176,7 +176,7 @@ _Para converter um number para string: `number.toString()`_
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
 - [Wikipedia - Variável](<https://pt.wikipedia.org/wiki/Vari%C3%A1vel_(programa%C3%A7%C3%A3o)>)
-- [Notas aula 05](../Aula05/)
+- [Notas Aula 05](../Aula05/)
 
 ## Próxima Aula
 

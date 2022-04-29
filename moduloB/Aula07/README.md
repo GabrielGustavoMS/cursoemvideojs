@@ -107,7 +107,7 @@ Você pode saber mais sobre a ordem de precedência no [manual de desenvolvedore
 
 - [Operadores - Developer Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators)
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
-- [Notas aula 06](../Aula06/)
+- [Notas Aula 06](../Aula06/)
 
 ## Próxima Aula
 
