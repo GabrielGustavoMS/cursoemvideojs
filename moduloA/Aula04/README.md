@@ -94,6 +94,7 @@ _Por que arriscar, né?_ &#128514;
 ## Referências
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+- [Notas Aula 03](../Aula03/)
 
 ## Próxima Aula
 
