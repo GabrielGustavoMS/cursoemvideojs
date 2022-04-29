@@ -45,6 +45,9 @@ Esse operadores são reponsáveis por operações matemáticas, tais como:
 - Resto da divisão inteira: `5 % 2` => 1
 - Potência: `5 ** 2` => 25
 
+Outros exemplos a seguir:<br/>
+![Exemplos de operadores Aritmeticos no terminal do node js](operadoresAritmeticos.jpg)
+
 ### Operadores de atribuição
 
 Esses operadores são responsáveis por atribuir / associar um valor a uma variável; principais exemplos:
@@ -58,8 +61,28 @@ Esses operadores são responsáveis por atribuir / associar um valor a uma vari�
 - Atribuição de Resto: `var %= 5`
 - Atribuição de Potência: `**= 2`
 
-Outros exemplos a seguir:<br/>
-![Exemplos de operadores Aritmeticos no terminal do node js](operadoresAritmeticos.jpg)
+### Operadores de Incremento de Decremento
+
+Esses operadores são utilizados para alterar o valor de uma variável numérica em 1 unidade.
+Por exemplo:
+
+#### Incremento
+
+`var a = 1`<br/>
+`a++` => Nesse caso o valor de a será equivalente a `a = a + 1`, ou seja, `2`.<br/><br/>
+
+![Exemplo de incremento](incrementoExemplo.jpg) <br/>
+
+_Note que no exemplo acima a ordem a++ ou ++a varia o resultado que é apresentado no terminal. No primeiro caso, em que se usa a++,o incremento ocorrerá após a exibição do valor de a; já no segundo caso, ++a o incremento ocorre antes da exibição do valor_
+
+#### Decremento
+
+`var a = 1`<br/>
+`a++` => Nesse caso o valor de a será equivalente a `a = a - 1`, ou seja, `0`.<br/><br/>
+
+![Exemplo de decremento](decrementoExemplo.jpg) <br/>
+
+_Note que no exemplo acima a ordem a-- ou --a varia o resultado que é apresentado no terminal. No primeiro caso, em que se usa a--,o decremento ocorrerá após a exibição do valor de a; já no segundo caso, --a o decremento ocorre antes da exibição do valor_
 
 ## Precedência dos operados
 
