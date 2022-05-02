@@ -45,5 +45,7 @@ _Note que o símbolo -> indica a saída da operação, para esse exemplo_
 
 Note que, em JavaScript, `5 == '5'` é verdadeiro, ou seja, o valor 5 do tipo number e o valor '5' do tipo string são iguais.
 Para verificar se os operandos são iguais em valor e do mesmo tipo, deve-se utilizar o operador de identidade, representado por `===`.
-Abaixo um exemplo comparando as saídas do operador `==` (É Igual a?) e `===` (É identico a?)
+
+Abaixo um exemplo comparando as saídas do operador `==` (É Igual a?) e `===` (É identico a?)<br/> <br/>
+
 ![Exemplo operador identidade, como nodejs](operador-de-identidade-ex01.jpg)
