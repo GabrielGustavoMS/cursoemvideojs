@@ -32,7 +32,7 @@ Os operadores relacionais sempre tem como resultado da operação, um valor **bo
 
 Se a resposta para o questionamento que representa uma relação for sim, então o disse que a relação é verdadeira e assim retornar-se-á o valor true. Caso contrário, false.
 
-_Note que o símbolo -> indica a saída da operação, para esse exemplo_
+_Note que o símbolo -> indica a saída da operação, para esse exemplo e que no lugar dos números, poderia se utilizar variáveis numéricas_
 
 - É Maior?: `5 > 2` -> `true`
 - É Menor?:`7 < 4` -> `false`
@@ -54,20 +54,24 @@ _Também há o operador `!==`, chamado de desigual restrito. Ele é semelhante a
 
 ### Operadores Lógicos
 
-Esses operadores são responsáveis por operações lógicas, ou seja, eles atuam com base na lógica booleana, para realizar:
+Esses operadores são responsáveis por operações lógicas, ou seja, eles atuam com base na lógica booleana e tem como entrada valores booleanos, para realizar:
 
-- Negação: `!`
-- Conjunção: `&&`
-- Disjunção: `||`
+- Negação: `! A`
+- Conjunção: `A && B`
+- Disjunção: `A || B`
+
+_A e B podem ser valores booleanos ou expressões que resultam em valores booleanos_
 
 **Tabela verdade - Operador de negação**
+Note que o operador de negação é unário e atua como um inversor. Caso o operando a sua esquerda seja `true`, o resultado da operação será `false` e vice-versa.
 
-| Entrada | Saída   |
-| ------- | ------- |
-| `true`  | `false` |
-| `false` | `true`  |
+| Entrada A | Saída   |
+| --------- | ------- |
+| `true`    | `false` |
+| `false`   | `true`  |
 
 **Tabela verdade - Operador de Conjunção**
+Note que o operador de conjunção, também conhecido como operador **E**, só resultará em `true` quando ambos operandos de entrada forem `true`.
 
 | Entrada A | Entrada B | Saída   |
 | --------- | --------- | ------- |
@@ -75,3 +79,16 @@ Esses operadores são responsáveis por operações lógicas, ou seja, eles atua
 | `true`    | `false`   | `false` |
 | `false`   | `true`    | `false` |
 | `false`   | `false`   | `false` |
+
+_Note que quando o operador de conjunção é negado, seu resultado será idêntico ao da tabela verdade do operador de disjunção_
+**Tabela verdade - Operador de Disjunção**
+Note que o operador de disjunção, também conhecido como operador **OU**, só resultará em `false` quando ambos operandos de entrada forem `false`.
+
+| Entrada A | Entrada B | Saída   |
+| --------- | --------- | ------- |
+| `true`    | `true`    | `true`  |
+| `true`    | `false`   | `true`  |
+| `false`   | `true`    | `true`  |
+| `false`   | `false`   | `false` |
+
+_Note que quando o operador de disjunção é negado, seu resultado será idêntico ao da tabela verdade do operador de conjunção_
