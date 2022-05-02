@@ -107,7 +107,7 @@ _Note que quando o operador de disjunção é negado, seu resultado será idênt
 
 ## Operador Ternário
 
-Abaixo, uma ilustração do operador ternário apresentada no curso em vídeo:
+Abaixo, uma ilustração do operador ternário apresentada no Curso em Vídeo:
 ![ilustração do operador ternário apresentada no curso em vídeo](operador-ternario-curso-em-video.jpg)
 
 O operador ternário é utilizado para simplificar a escrita de um estrutura **condicional composta**. Caso a proposição ou teste avaliado seja verdadeiro `true`, um bloco de comandos G será executado caso contrário `false`, outro bloco H será executado.
