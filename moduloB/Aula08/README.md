@@ -88,7 +88,9 @@ Note que o operador de conjunção, também conhecido como operador E, só resul
 | `false`   | `false`   | `false` |
 
 _Note que quando o operador de conjunção é negado, seu resultado será idêntico ao da tabela verdade do operador de disjunção_
+
 <br/>
+
 <br/>
 
 #### Tabela verdade - Operador de Disjunção
@@ -103,7 +105,9 @@ Note que o operador de disjunção, também conhecido como operador OU, só resu
 | `false`   | `false`   | `false` |
 
 _Note que quando o operador de disjunção é negado, seu resultado será idêntico ao da tabela verdade do operador de conjunção_
+
 <br/>
+
 <br/>
 
 ## Ordem de Precedência
