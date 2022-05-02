@@ -112,7 +112,7 @@ _Note que quando o operador de disjunção é negado, seu resultado será idênt
 2. Operadores Relacionais
 3. Operadores Lógicos
 
-Abaixo uma capitura de tela com a ordem de precedência apresentada no curso de js do curso em vídeo: <br/>
+Abaixo uma captura de tela com a ordem de precedência apresentada no curso de js do curso em vídeo: <br/>
 
 ![Ordem de precedência dos operadores, curso em vídeo](precedencia-expressoes.jpg)
 <br/>
@@ -123,8 +123,8 @@ Abaixo uma capitura de tela com a ordem de precedência apresentada no curso de 
 2. Conjunção
 3. Disjunção
 
-_Nota pessoal: Não me lembro dos operadores lógics ter ordem de precedência entre sí, mas estou apenas replicando o que foi passado no curso!_
+_Nota pessoal: Não me lembro dos operadores lógicos ter ordem de precedência entre si, mas estou apenas replicando o que foi passado no curso!_
 
 ## Prática
 
-![Exemplo de uma expressõa utilizando operadores aritméticos, lógicos e relacionais](aula08-pratica01.jpg)
+![Exemplo de uma expressão utilizando operadores aritméticos, lógicos e relacionais](aula08-pratica01.jpg)
