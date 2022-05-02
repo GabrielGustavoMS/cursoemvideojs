@@ -127,7 +127,13 @@ Abaixo uma captura de tela com a ordem de precedência apresentada no curso de j
 2. Conjunção
 3. Disjunção
 
-_Nota pessoal: Não me lembro dos operadores lógicos ter ordem de precedência entre si, mas estou apenas replicando o que foi passado no curso!_
+_Nota pessoal: Não me lembro dos operadores lógicos terem ordem de precedência entre si, mas estou apenas replicando o que foi passado no curso!_
+
+## Operador Ternário
+
+![](operador-ternario-curso-em-video.jpg)
+
+O operador ternário é utilizado para simplificar a escrita de um estrutura **condicional composta**. Caso a proposição ou teste avaliado seja verdadeiro `true`, um bloco de comandos G será executado caso contrário, um bloco b será executado.
 
 ## Prática
 
