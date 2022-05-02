@@ -62,8 +62,16 @@ Esses operadores são responsáveis por operações lógicas, ou seja, eles atua
 
 **Tabela verdade - Operador de negação**
 
-|Operador de negação|
-| Entrada | Saída |
+| Entrada | Saída   |
 | ------- | ------- |
-| `true` | `false` |
-| `false` | `true` |
+| `true`  | `false` |
+| `false` | `true`  |
+
+**Tabela verdade - Operador de Conjunção**
+
+| Entrada A | Entrada B | Saída   |
+| --------- | --------- | ------- |
+| `true`    | `true`    | `true`  |
+| `true`    | `false`   | `false` |
+| `false`   | `true`    | `false` |
+| `false`   | `false`   | `false` |
