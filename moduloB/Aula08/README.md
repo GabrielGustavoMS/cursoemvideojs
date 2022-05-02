@@ -114,6 +114,8 @@ O operador ternário é utilizado para simplificar a escrita de um estrutura **c
 <br/>
 
 Demonstração do operador ternário no node:
+<br/>
+
 ![operador ternário no node](operador-ternario-nodejs-01.jpg)
 
 ## Ordem de Precedência
