@@ -129,7 +129,7 @@ _Nota pessoal: Não me lembro dos operadores lógicos terem ordem de precedênci
 Abaixo, uma ilustração do operador ternário apresentada no curso em vídeo:
 ![](operador-ternario-curso-em-video.jpg)
 
-O operador ternário é utilizado para simplificar a escrita de um estrutura **condicional composta**. Caso a proposição ou teste avaliado seja verdadeiro `true`, um bloco de comandos G será executado caso contrário `false`, um bloco b será executado.
+O operador ternário é utilizado para simplificar a escrita de um estrutura **condicional composta**. Caso a proposição ou teste avaliado seja verdadeiro `true`, um bloco de comandos G será executado caso contrário `false`, outro bloco H será executado.
 <br/>
 
 ## Prática
