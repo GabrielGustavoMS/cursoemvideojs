@@ -105,11 +105,23 @@ _Note que quando o operador de disjunção é negado, seu resultado será idênt
 
 <br/>
 
+## Operador Ternário
+
+Abaixo, uma ilustração do operador ternário apresentada no curso em vídeo:
+![ilustração do operador ternário apresentada no curso em vídeo](operador-ternario-curso-em-video.jpg)
+
+O operador ternário é utilizado para simplificar a escrita de um estrutura **condicional composta**. Caso a proposição ou teste avaliado seja verdadeiro `true`, um bloco de comandos G será executado caso contrário `false`, outro bloco H será executado.
+<br/>
+
+Demonstração do operador ternário no node:
+![operador ternário no node](operador-ternario-nodejs-01.jpg)
+
 ## Ordem de Precedência
 
 1. Operadores Aritméticos
 2. Operadores Relacionais
 3. Operadores Lógicos
+4. Operador Ternário
 
 Abaixo uma captura de tela com a ordem de precedência apresentada no curso de js do curso em vídeo: <br/>
 
@@ -123,14 +135,6 @@ Abaixo uma captura de tela com a ordem de precedência apresentada no curso de j
 3. Disjunção
 
 _Nota pessoal: Não me lembro dos operadores lógicos terem ordem de precedência entre si, mas estou apenas replicando o que foi passado no curso!_
-
-## Operador Ternário
-
-Abaixo, uma ilustração do operador ternário apresentada no curso em vídeo:
-![](operador-ternario-curso-em-video.jpg)
-
-O operador ternário é utilizado para simplificar a escrita de um estrutura **condicional composta**. Caso a proposição ou teste avaliado seja verdadeiro `true`, um bloco de comandos G será executado caso contrário `false`, outro bloco H será executado.
-<br/>
 
 ## Prática
 
