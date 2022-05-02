@@ -145,7 +145,7 @@ _Nota pessoal: Não me lembro dos operadores lógicos terem ordem de precedênci
 ## Referências
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
-- [Notas Aula 06](../Aula07/)
+- [Notas Aula 07](../Aula07/)
 
 ## Próxima Aula
 
