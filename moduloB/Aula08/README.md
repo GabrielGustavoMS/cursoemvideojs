@@ -25,3 +25,16 @@ Os **operadores** são símbolos que representam determinadas operações que s�
 - Ternário
 
 Exemplo: `2 + 3`, nesse caso 2 e 3 são operandos e + é o operador.
+
+### Operadores Relacionais
+
+Os operadores relacionais sempre tem como resultado da operação, um valor **booleano**. Esses operadores são responsáveis por operações relacionais, as quais normalmente questiona-se como um operador a esquerda se relaciona com um operador a direita.
+
+Se a resposta para o questionamento que representa uma relação for sim, então o disse que a relação é verdadeira e assim retornar-se-á o valor true. Caso contrário, false.
+
+- É Maior?: `>`
+- É Menor?:`<`
+- É Maior ou Igual a?`>=`
+- É Menor ou Igual a?`<=`
+- É Igual a?`==`
+- É Diferente de?`!=`
