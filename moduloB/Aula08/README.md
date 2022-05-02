@@ -61,7 +61,9 @@ Esses operadores são responsáveis por operações lógicas, ou seja, eles atua
 - Disjunção: `||`
 
 **Tabela verdade - Operador de negação**
-Entrada | Saída
---------|------
-`true` | `false`
-`false` | `true`
+
+|Operador de negação|
+| Entrada | Saída |
+| ------- | ------- |
+| `true` | `false` |
+| `false` | `true` |
