@@ -62,6 +62,8 @@ Esses operadores são responsáveis por operações lógicas, ou seja, eles atua
 
 _A e B podem ser valores booleanos ou expressões que resultam em valores booleanos_
 
+<br/>
+
 **Tabela verdade - Operador de negação**
 Note que o operador de negação é unário e atua como um inversor. Caso o operando a sua esquerda seja `true`, o resultado da operação será `false` e vice-versa.
 
@@ -69,6 +71,8 @@ Note que o operador de negação é unário e atua como um inversor. Caso o oper
 | --------- | ------- |
 | `true`    | `false` |
 | `false`   | `true`  |
+
+<br/>
 
 **Tabela verdade - Operador de Conjunção**
 Note que o operador de conjunção, também conhecido como operador **E**, só resultará em `true` quando ambos operandos de entrada forem `true`.
@@ -81,6 +85,8 @@ Note que o operador de conjunção, também conhecido como operador **E**, só r
 | `false`   | `false`   | `false` |
 
 _Note que quando o operador de conjunção é negado, seu resultado será idêntico ao da tabela verdade do operador de disjunção_
+<br/>
+
 **Tabela verdade - Operador de Disjunção**
 Note que o operador de disjunção, também conhecido como operador **OU**, só resultará em `false` quando ambos operandos de entrada forem `false`.
 
