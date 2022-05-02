@@ -105,3 +105,7 @@ Note que o operador de disjunção, também conhecido como operador OU, só resu
 _Note que quando o operador de disjunção é negado, seu resultado será idêntico ao da tabela verdade do operador de conjunção_
 <br/>
 <br/>
+
+## Prática
+
+![Exemplo de uma expressõa utilizando operadores aritméticos, lógicos e relacionais](aula08-pratica01.jpg)
