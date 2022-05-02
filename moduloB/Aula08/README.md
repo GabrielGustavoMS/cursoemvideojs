@@ -16,7 +16,7 @@ Ambos alteram o valor de uma variável em 1 unidade, ++ acresce e -- decresce
 
 ## Tipos de Operadores
 
-Os **operadores** são símbolos que representam determinadas operações que são aplicadas sobre os **operandos**. Os principais tipos de operação que classificam os operadores são:
+Os operadores são símbolos que representam determinadas operações que são aplicadas sobre os operandos. Os principais tipos de operação que classificam os operadores são:
 
 - Aritméticos
 - Atribuição
@@ -28,7 +28,7 @@ Exemplo: `2 + 3`, nesse caso 2 e 3 são operandos e + é o operador.
 
 ### Operadores Relacionais
 
-Os operadores relacionais sempre tem como resultado da operação, um valor **booleano**. Esses operadores são responsáveis por operações relacionais, as quais normalmente questiona-se como um operando a esquerda se relaciona com um operando a direita, do operador.
+Os operadores relacionais sempre tem como resultado da operação, um valor booleano. Esses operadores são responsáveis por operações relacionais, as quais normalmente questiona-se como um operando a esquerda se relaciona com um operando a direita, do operador.
 
 Se a resposta para o questionamento que representa uma relação for sim, então o disse que a relação é verdadeira e assim retornar-se-á o valor true. Caso contrário, false.
 
@@ -64,7 +64,8 @@ _A e B podem ser valores booleanos ou expressões que resultam em valores boolea
 
 <br/>
 
-**Tabela verdade - Operador de negação**
+#### Tabela verdade - Operador de negação
+
 Note que o operador de negação é unário e atua como um inversor. Caso o operando a sua esquerda seja `true`, o resultado da operação será `false` e vice-versa.
 
 | Entrada A | Saída   |
@@ -74,8 +75,9 @@ Note que o operador de negação é unário e atua como um inversor. Caso o oper
 
 <br/>
 
-**Tabela verdade - Operador de Conjunção**
-Note que o operador de conjunção, também conhecido como operador **E**, só resultará em `true` quando ambos operandos de entrada forem `true`.
+#### Tabela verdade - Operador de Conjunção
+
+Note que o operador de conjunção, também conhecido como operador E, só resultará em `true` quando ambos operandos de entrada forem `true`.
 
 | Entrada A | Entrada B | Saída   |
 | --------- | --------- | ------- |
@@ -87,8 +89,9 @@ Note que o operador de conjunção, também conhecido como operador **E**, só r
 _Note que quando o operador de conjunção é negado, seu resultado será idêntico ao da tabela verdade do operador de disjunção_
 <br/>
 
-**Tabela verdade - Operador de Disjunção**
-Note que o operador de disjunção, também conhecido como operador **OU**, só resultará em `false` quando ambos operandos de entrada forem `false`.
+#### Tabela verdade - Operador de Disjunção
+
+Note que o operador de disjunção, também conhecido como operador OU, só resultará em `false` quando ambos operandos de entrada forem `false`.
 
 | Entrada A | Entrada B | Saída   |
 | --------- | --------- | ------- |
