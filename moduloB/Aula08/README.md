@@ -49,3 +49,19 @@ Para verificar se os operandos são iguais em valor e do mesmo tipo, deve-se uti
 Abaixo um exemplo comparando as saídas do operador `==` (É Igual a?) e `===` (É identico a?)<br/> <br/>
 
 ![Exemplo operador identidade, como nodejs](operador-de-identidade-ex01.jpg)
+
+_Também há o operador `!==`, chamado de desigual restrito. Ele é semelhante ao `!=`, mas assim como o `===` também avalia o tipo dos operandos_
+
+### Operadores Lógicos
+
+Esses operadores são responsáveis por operações lógicas, ou seja, eles atuam com base na lógica booleana, para realizar:
+
+- Negação: `!`
+- Conjunção: `&&`
+- Disjunção: `||`
+
+**Tabela verdade - Operador de negação**
+Entrada | Saída
+--------|------
+`true` | `false`
+`false` | `true`
