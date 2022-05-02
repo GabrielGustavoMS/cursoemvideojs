@@ -13,3 +13,15 @@ Seu novo valor será 15.
 
 Q04 - Para que servem os operadores ++ e --?
 Ambos alteram o valor de uma variável em 1 unidade, ++ acresce e -- decresce
+
+## Tipos de Operadores
+
+Os **operadores** são símbolos que representam determinadas operações que são aplicadas sobre os **operandos**. Os principais tipos de operação que classificam os operadores são:
+
+- Aritméticos
+- Atribuição
+- Relacionais
+- Lógico
+- Ternário
+
+Exemplo: `2 + 3`, nesse caso 2 e 3 são operandos e + é o operador.
