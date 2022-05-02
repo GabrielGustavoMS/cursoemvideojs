@@ -74,7 +74,6 @@ Note que o operador de negação é unário e atua como um inversor. Caso o oper
 | `false`   | `true`  |
 
 <br/>
-<br/>
 
 #### Tabela verdade - Operador de Conjunção
 
@@ -91,8 +90,6 @@ _Note que quando o operador de conjunção é negado, seu resultado será idênt
 
 <br/>
 
-<br/>
-
 #### Tabela verdade - Operador de Disjunção
 
 Note que o operador de disjunção, também conhecido como operador OU, só resultará em `false` quando ambos operandos de entrada forem `false`.
@@ -105,8 +102,6 @@ Note que o operador de disjunção, também conhecido como operador OU, só resu
 | `false`   | `false`   | `false` |
 
 _Note que quando o operador de disjunção é negado, seu resultado será idêntico ao da tabela verdade do operador de conjunção_
-
-<br/>
 
 <br/>
 
@@ -131,9 +126,11 @@ _Nota pessoal: Não me lembro dos operadores lógicos terem ordem de precedênci
 
 ## Operador Ternário
 
+Abaixo, uma ilustração do operador ternário apresentada no curso em vídeo:
 ![](operador-ternario-curso-em-video.jpg)
 
-O operador ternário é utilizado para simplificar a escrita de um estrutura **condicional composta**. Caso a proposição ou teste avaliado seja verdadeiro `true`, um bloco de comandos G será executado caso contrário, um bloco b será executado.
+O operador ternário é utilizado para simplificar a escrita de um estrutura **condicional composta**. Caso a proposição ou teste avaliado seja verdadeiro `true`, um bloco de comandos G será executado caso contrário `false`, um bloco b será executado.
+<br/>
 
 ## Prática
 
