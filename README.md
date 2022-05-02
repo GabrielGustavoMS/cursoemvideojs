@@ -15,3 +15,7 @@ Esse repositório contém anotações referentes as aulas de **Javascript** do C
 - [Aula 06 - Tratamento de dados](/moduloB/Aula06/)
 - [Aula 07 - Operadores](/moduloB/Aula07/)
 - [Aula 08 - Operadores Parte 2](/moduloB/Aula08/)
+
+## Módulo C
+
+- [Aula 09 - Aula 09 - Introdução ao DOM](/moduloC/Aula09/)
