@@ -107,6 +107,6 @@ Código Js:
 
 Resultado em HTML:
 
-![Resultado em HTML](selecao-por-id-resultado)
+![Resultado em HTML](selecao-por-id-resultado.jpg)
 
 _Não se pode atribuir o mesmo id para mais de um elemento !_
