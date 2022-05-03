@@ -164,3 +164,14 @@ Resultado em HTML:
 ![selecao-por-query-resultado](selecao-por-query-resultado.jpg)
 
 _Saiba mais sobre [seletores css](https://www.w3schools.com/cssref/css_selectors.asp)_
+
+## Referências
+
+- [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+- [Wikipedia](https://www.wikipedia.org/)
+- [W3C Schools](https://www.w3schools.com/)
+- [Notas Aula 08](../../moduloB/Aula08/)
+
+## Próxima Aula
+
+[Aula 10 - Eventos DOM](../Aula10/)
