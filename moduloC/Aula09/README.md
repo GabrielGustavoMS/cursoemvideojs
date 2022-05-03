@@ -14,7 +14,8 @@ De acordo com que foi passado no Curso em Vídeo, o operador de conjunção `&&`
 
 Q03 - Sabe usar o operador ternário para colocar um entre dois valores em uma variável?
 
-Sim, veja o exemplo abaixo:<br/>
+Sim, veja o exemplo abaixo:
+
 ![exemplo operador ternário](revisao03Aula08.jpg)
 
 ## Extensões usadas no Vs Code
@@ -50,7 +51,7 @@ Como exemplo, considere o seguinte código HTML e sua respectiva árvore DOM:
 
 ![Exemplo de código HTML](code-html-dom.jpg)
 
-Abaixo temos uma captura de tela da árvore DOM, referente ao código anterior, retirada da aula 09 do curso de Js do Curso em Vídeo.
+Abaixo temos uma captura de tela da árvore DOM, referente ao código anterior, retirada da aula 09 do curso de Js do Curso em Vídeo:
 
 <br/>
 
