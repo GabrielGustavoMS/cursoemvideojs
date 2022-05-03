@@ -78,3 +78,19 @@ Note que uma linha foi adicionada logo abaixo com o texto `Olá mundo !`:
 Note que ao inspecionar o código em um navegador, pode-se notar a presença de `"Olá mundo !"`
 
 ![ex005 Após alteração - código](ex005-ref-com-alteracao-code.jpg)
+
+## Selecionando elementos DOM com JS
+
+### Por Marca (ou Tag)
+
+Para selecionar um elemento por tag, utiliza-se:
+
+`document.getElementsByTagName()`
+
+_Note que `.getElementsByTagName()` retornará um vetor de elementos, como se pode notar **Elements**_
+
+Veja o exemplo abaixo, em que alterou-se a cor de fundo da página para cinza, usando o seguinte comando:
+
+![Resultado da alteração por tag code](selecao-por-tag-code.jpg)
+
+![Resultado da alteração por tag](selecao-por-tag.jpg)
