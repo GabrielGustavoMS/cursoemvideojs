@@ -44,7 +44,7 @@ Habilita um atalho para rodar arquivos js no node apertando a tecla F8.
 
 ### Árvore DOM
 
-Para organizar os elementos / objetos, utiliza-se uma estrutura de árvore n-ária chamada de Árvore DOM, de forma que cada elemento é representado por um nó da árvore.
+Para organizar os elementos / objetos, utiliza-se uma estrutura de [árvore](<https://pt.wikipedia.org/wiki/%C3%81rvore_(estrutura_de_dados)>) n-ária chamada de Árvore DOM, de forma que cada elemento é representado por um nó da árvore.
 
 Como exemplo, considere o seguinte código HTML e sua respectiva árvore DOM:
 <br/>
@@ -56,3 +56,25 @@ Abaixo temos uma captura de tela da árvore DOM, referente ao código anterior, 
 <br/>
 
 ![Exemplo da árvore DOM correspondente ao código acima](dom-arvore.jpg)
+
+## Prática
+
+### Adicionando elementos no documento HTML com JS
+
+Podemos utilizar o DOM para adicionar elementos em um código HTML, utilizando o seguindo comando:
+
+`window.document.write('Olá mundo !')`
+
+Por exemplo:
+
+Imagine que queremos adicionar o texto `Olá mundo !` na seguinte página [ex005](./ex005.html):
+
+![Referência ex005 sem alteração](ex005-ref-sem-alteracao.jpg)
+
+Note que uma linha foi adicionada logo abaixo com o texto `Olá mundo !`:
+
+![ex005 Após alteração](ex005-ref-com-alteracao.jpg)
+
+Note que ao inspecionar o código em um navegador, pode-se notar a presença de `"Olá mundo !"`
+
+![ex005 Após alteração - código](ex005-ref-com-alteracao-code.jpg)
