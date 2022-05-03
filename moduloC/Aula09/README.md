@@ -91,7 +91,11 @@ _Note que `.getElementsByTagName()` retornará um vetor de elementos, como se po
 
 Veja o exemplo abaixo, em que alterou-se a cor de fundo da página para cinza, usando o seguinte comando:
 
+Código JS:
+
 ![Resultado da alteração por tag code](selecao-por-tag-code.jpg)
+
+Resultado em HTML:
 
 ![Resultado da alteração por tag](selecao-por-tag.jpg)
 
@@ -110,3 +114,23 @@ Resultado em HTML:
 ![Resultado em HTML](selecao-por-id-resultado.jpg)
 
 _Não se pode atribuir o mesmo id para mais de um elemento !_
+
+### Por nome
+
+De forma semelhante a seleção por Tag, a seleção por nome retorna um vetor de elementos. Entretanto, a seleção ocorrerá pela propriedade name, ou seja, serão selecionados todos os elementos cujo o nome corresponde ao especificado entre `( )`.
+
+Exemplo:
+
+Código HTML:
+
+![Código htm](html-selecao-name.jpg)
+
+Código JS:
+
+![Selecao por Nome](selecao-por-nome.jpg)
+
+Resultado em HTML:
+
+![selecao-por-nome-resultado](selecao-por-nome-resultado.jpg)
+
+_Note que o texto da div foi alterado de **Clique em mim** para **Div alterada por js**._
