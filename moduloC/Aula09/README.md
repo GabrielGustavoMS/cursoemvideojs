@@ -134,3 +134,19 @@ Resultado em HTML:
 ![selecao-por-nome-resultado](selecao-por-nome-resultado.jpg)
 
 _Note que o texto da div foi alterado de **Clique em mim** para **Div alterada por js**._
+
+### Por Classe
+
+É idêntica a seleção por nome, com exceção de que seleciona o atributo `class` no lugar de `name`.
+
+Código HTML:
+
+![selecao-por-classe-html](selecao-por-classe-html.jpg)
+
+Código JS:
+
+![selecao-por-classe-js](selecao-por-classe-js.jpg)
+
+Resultado em HTML:
+
+![selecao-por-classe-resultado](selecao-por-classe-resultado.jpg)
