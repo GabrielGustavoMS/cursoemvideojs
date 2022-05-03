@@ -19,3 +19,4 @@ Esse repositório contém anotações referentes as aulas de **Javascript** do C
 ## Módulo C
 
 - [Aula 09 - Aula 09 - Introdução ao DOM](/moduloC/Aula09/)
+- [Aula 10 - Eventos DOM](/moduloC/Aula10/)
