@@ -99,7 +99,7 @@ Veja o exemplo abaixo, em que alterou-se a cor de fundo da página para cinza, u
 
 Uma outra forma de selecionar, é pelo id de um elemento. Abaixo um exemplo:
 
-Na linha 2, adicionei o atributo `id="hello"` em um parágrafo contendo o texto **Olá Mundo** e na 4, selecionei o atributo `style` e alterei a propriedade `fontFamily` para `cursive`, causando um efeito de letra cursiva somente no parágrado com id hello.
+Na linha 2, adicionei o atributo `id="hello"` em um parágrafo contendo o texto **Olá Mundo** e na 4, selecionei o atributo `style` e alterei a propriedade `fontFamily` para `cursive`, causando um efeito de letra cursiva somente no parágrafo com id hello.
 
 Código Js:
 
