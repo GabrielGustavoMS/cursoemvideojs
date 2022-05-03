@@ -14,3 +14,21 @@ De acordo com que foi passado no Curso em Vídeo, o operador de conjunção `&&`
 Q03 - Sabe usar o operador ternário para colocar um entre dois valores em uma variável?
 Sim, veja o exemplo abaixo:<br/>
 ![exemplo operador ternário](revisao03Aula08.jpg)
+
+## Extensões usadas no Vs Code
+
+Recomenda-se reiniciar o vscode após instalar as extensões.
+
+### Watch in Chrome
+
+Cria um live server para rodar e atualizar automaticamente os arquivos HTML
+
+No momento que estou escrevendo esse arquivo, é necessário utilizar um plug-in no chrome para rodar o Watch in Chrome.
+Eu particularmente prefiro utilizar o live server: <br/>
+
+![](liveServer.jpg)
+
+### Node Exec
+
+Habilita um atalho para rodar arquivos js no node apertando a tecla F8.
+![](nodeexec.jpg)
