@@ -32,3 +32,22 @@ Eu particularmente prefiro utilizar o live server: <br/>
 
 Habilita um atalho para rodar arquivos js no node apertando a tecla F8.
 ![](nodeexec.jpg)
+
+## O que é DOM?
+
+É um acrônimo para **Document Object Model** ou [Modelo de Objeto de Documento](https://pt.wikipedia.org/wiki/Modelo_de_Objeto_de_Documentos). Trata-se de uma convenção independente de linguagem de programação, multiplataforma, fiscalizada pela [W3C](https://pt.wikipedia.org/wiki/W3C) adotada para representar e iterar objetos em documentos HTML, XHTML e, XML.
+
+É através do DOM que podemos alterar o conteúdo de uma página web utilizando JS. Um exemplo disso foi realizado na primeira aula do curso.
+
+### Árvore DOM
+
+Para organizar os elementos / objetos, utiliza-se uma estrutura de árvore n-ária chamada de Árvore DOM, de forma que cada elemento é representado por um nó da árvore.
+
+Como exemplo, considere o seguinte código HTML e sua respectiva árvore DOM:
+<br/>
+
+![Exemplo de código HTML](code-html-dom.jpg)
+
+<br/>
+
+![Exemplo da árvore DOM correspondente ao código acima](dom-arvore.jpg)
