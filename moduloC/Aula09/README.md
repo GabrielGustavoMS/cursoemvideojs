@@ -50,6 +50,8 @@ Como exemplo, considere o seguinte código HTML e sua respectiva árvore DOM:
 
 ![Exemplo de código HTML](code-html-dom.jpg)
 
+Abaixo temos uma captura de tela da árvore DOM do código anterior, retirada da aula 09 do curso de Js do Curso em Vídeo.
+
 <br/>
 
 ![Exemplo da árvore DOM correspondente ao código acima](dom-arvore.jpg)
