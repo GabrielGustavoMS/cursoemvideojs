@@ -150,3 +150,17 @@ Código JS:
 Resultado em HTML:
 
 ![selecao-por-classe-resultado](selecao-por-classe-resultado.jpg)
+
+### Por Seletor (ou Query)
+
+Uma forma mais recente, _atualmente não suportada por todos os navegadores mais antigos_, de fazer a seleção de elementos é usando uma sintaxe semelhante aos seletores css.
+
+Código JS:
+
+![selecao-por-query-js](selecao-por-query-js.jpg)
+
+Resultado em HTML:
+
+![selecao-por-query-resultado](selecao-por-query-resultado.jpg)
+
+_Saiba mais sobre [seletores css](https://www.w3schools.com/cssref/css_selectors.asp)_
