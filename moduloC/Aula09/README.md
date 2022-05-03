@@ -163,7 +163,7 @@ Resultado em HTML:
 
 ![selecao-por-query-resultado](selecao-por-query-resultado.jpg)
 
-_Saiba mais sobre [seletores css](https://www.w3schools.com/cssref/css_selectors.asp)!_
+_Saiba mais sobre [seletores Css](https://www.w3schools.com/cssref/css_selectors.asp) !_
 
 ## Referências
 
