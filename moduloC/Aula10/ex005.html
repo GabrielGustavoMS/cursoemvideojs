@@ -15,9 +15,20 @@
         line-height: 200px;
         text-align: center;
       }
+      div#area:hover {
+        cursor: pointer;
+      }
     </style>
   </head>
   <body>
-    <div id="area">Interaja...</div>
+    <div
+      id="area"
+      onclick="clicar()"
+      onmouseenter="entrar()"
+      onmouseout="sair()"
+    >
+      Interaja...
+    </div>
+    <script src="./ex005.js"></script>
   </body>
 </html>

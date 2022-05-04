@@ -34,3 +34,37 @@ Q04 - Quais são os 5 principais métodos de selecionar elementos DOM dentro do 
 | mouseout       | quando o mouse sai da área do elemento                                         |
 
 Saiba mais sobre eventos no [manual da Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/Events)
+
+## Funções
+
+Bloco de instruções reutilizáveis que podem ser executados quando um evento ocorre. Para declarar uma função em JS utiliza-se a palavra reservada `funtion` que pode ou não ser seguida de um nome de `()`.
+
+_Uma função será disparada somente quando ocorrer a sua chamada._
+
+Exemplo de declaração de função:
+
+![Exemplo de função em js](function-ex.jpg)
+
+## Usando Funções e Eventos
+
+Os eventos podem ser disparados pelo HTML através de atributos ou por JS.
+
+### Exemplo de funções interagindo com o DOM
+
+### Evento de click
+
+![Exemplo de função associada ao evento de click](function-clicar.jpg)
+
+A função acima interage com o DOM selecionando um elemento HTML com id igual a _area_, armazenando-o em uma variável _area_. Após isso ela irá alterar a cor de fundo e o texto do elemento, mas isso só ocorrerá com a chamada da função.
+
+Para chamar a função, pode-se adicionar o atributo `onclick=""` no elemento HTML com ID `area`, juntamente com a chamada da função `clicar()`, dessa forma: `onclick="clicar()"`
+
+![Função clicar](function-clicar-html.jpg)
+
+Elemento antes da interação de click:
+
+![Elemento antes da interação de click](elemento-sem-interacao.jpg)
+
+Elemento após a interação de click:
+
+![Elemento após a interação de click](elemento-click-interacao.jpg)
