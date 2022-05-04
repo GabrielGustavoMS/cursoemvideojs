@@ -24,7 +24,7 @@ Q04 - Quais são os 5 principais métodos de selecionar elementos DOM dentro do 
 
 ## Eventos de Mouse
 
-| Nome do evento | Quando é dispado                                                               |
+| Nome do evento | Quando é disparado                                                             |
 | -------------- | ------------------------------------------------------------------------------ |
 | mouseenter     | quando o mouse entra na área do elemento                                       |
 | mousemove      | quando o mouse se move pela área do elemento                                   |
@@ -47,7 +47,7 @@ Exemplo de declaração de função:
 
 ## Usando Funções e Eventos
 
-Os eventos podem ser disparados pelo HTML através de atributos ou por JS.
+Os eventos podem ser disparados pelo HTML através de atributos ou por JS, por meio de _listeners_.
 
 ### Exemplo de funções interagindo com o DOM
 
