@@ -55,7 +55,7 @@ Os eventos podem ser disparados pelo HTML através de atributos ou por JS, por m
 
 ![Exemplo de função associada ao evento de click](function-clicar-c.jpg)
 
-A função acima interage com o DOM selecionando um elemento HTML com id igual a _area_, armazenando-o em uma variável _area_. Após isso ela irá alterar a cor de fundo e o texto do elemento, mas isso só ocorrerá com a chamada da função.
+A função acima interage com o DOM selecionando um elemento HTML com id igual a _area_, armazenando-o em uma variável _area_. Após isso ela altera a cor de fundo e o texto do elemento, mas isso só ocorre com a chamada da função.
 
 Para chamar a função, pode-se adicionar o atributo `onclick=""` no elemento HTML com ID `area`, juntamente com a chamada da função `clicar()`, dessa forma: `onclick="clicar()"`
 
