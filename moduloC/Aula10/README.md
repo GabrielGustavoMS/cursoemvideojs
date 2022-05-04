@@ -21,3 +21,16 @@ Q04 - Quais são os 5 principais métodos de selecionar elementos DOM dentro do 
 3. Seleção por ID - `document.getElementById()`
 4. Seleção por classe - `document.getElementsByClassName()`
 5. Seleção por Seletor ou Query - `document.querySelector()`
+
+## Eventos de Mouse
+
+| Nome do evento | Quando é dispado                                                               |
+| -------------- | ------------------------------------------------------------------------------ |
+| mouseenter     | quando o mouse entra na área do elemento                                       |
+| mousemove      | quando o mouse se move pela área do elemento                                   |
+| mousedown      | quando o botão do mouse é pressionado lentamente                               |
+| mouseup        | quando o botão do mouse volta para a posição original; é o oposto do mousedown |
+| mouseclick     | quando o mouse recebe um click rápido                                          |
+| mouseout       | quando o mouse sai da área do elemento                                         |
+
+Saiba mais sobre eventos no [manual da Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/Events)
