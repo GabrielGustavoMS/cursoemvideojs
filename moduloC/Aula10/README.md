@@ -148,3 +148,8 @@ Código JS:
 Código CSS:
 
 ![Ex 007 - css](ex007-css.jpg)
+
+## Referências
+
+- [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+- [Notas Aula 09](../../moduloB/Aula09/)
