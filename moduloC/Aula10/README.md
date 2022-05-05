@@ -132,3 +132,19 @@ _Note que o console devolve algumas informações como o tipo do erro, a funçã
 ![Erro de sintaxe função clicar sublinhando as informações](exemplo-erro-sintaxe-sublinhado.jpg)
 
 _Dica: Na maioria das vezes, copiar e colar as mensagens de erros no google facilitará a sua vida. Provavelmente você encontrará alguma solução, em algum site, principalmente no [Stack Overflow](https://pt.stackoverflow.com/)_
+
+## Prática
+
+Note abaixo que utilizei tanto css quando js em arquivos externos. Isso é importante para manter a organização entre os arquivos.
+
+Código HTML:
+
+![Ex 007 - HTML](ex007-html.jpg)
+
+Código JS:
+
+![Ex 007 - js](ex007-js.jpg)
+
+Código CSS:
+
+![Ex 007 - css](ex007-css.jpg)
