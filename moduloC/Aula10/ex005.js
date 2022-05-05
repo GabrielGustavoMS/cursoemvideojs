@@ -1,5 +1,5 @@
 function clicar() {
-  var area = window.document.getElementById('area')
+  var area = Window.document.getElementById('area')
   area.innerText = 'Clicou'
   area.style.background = 'red'
 }

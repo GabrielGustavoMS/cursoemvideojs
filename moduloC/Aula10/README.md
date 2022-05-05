@@ -114,3 +114,21 @@ Uma alternativa para os exemplos anteriores, seria usar ouvintes ou listeners no
 Note que a _div_, já não possui os atributos de eventos **on**algumacoisa.
 
 Utilizou-se `elementoHtml.addEventListener('nomeEvento', nomeFunção)`
+
+## Resolvendo Problemas de Sintaxe
+
+Problemas com a sintaxe são comuns. Uma forma de encontrá-los é utilizando a ferramenta **inspect** ou em **ferramentas para desenvolvedores**, que podem ser acessadas apertando a tecla F12 do teclado, no Chrome.
+
+Abaixo um erro de sintaxe:
+
+![Erro de sintaxe](exemplo-erro-sintaxe.jpg)
+
+Nesse exemplo, substituiu-se o w minúsculo da palavra window na linha 2 da função clicar, por W maiúsculo. Dessa forma:
+
+![Erro de sintaxe função clicar](clicar-alterada.jpg)
+
+_Note que o console devolve algumas informações como o tipo do erro, a função, o número da linha e até o elemento html de onde se originou o evento_
+
+![Erro de sintaxe função clicar sublinhando as informações](exemplo-erro-sintaxe-sublinhado.jpg)
+
+_Dica: Na maioria das vezes, copiar e colar as mensagens de erros no google facilitará a sua vida. Provavelmente você encontrará alguma solução, em algum site, principalmente no [Stack Overflow](https://pt.stackoverflow.com/)_
