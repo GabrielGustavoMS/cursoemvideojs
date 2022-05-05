@@ -55,11 +55,11 @@ Os eventos podem ser disparados pelo HTML através de atributos ou por JS, por m
 
 ![Exemplo de função associada ao evento de click](function-clicar-c.jpg)
 
-A função acima interage com o DOM selecionando um elemento HTML com id igual a _area_, armazenando-o em uma variável _area_. Após isso ela altera a cor de fundo e o texto do elemento, mas isso só ocorre com a chamada da função.
+A função acima interage com o DOM selecionando um elemento HTML com id igual a _area_, armazenando-o em uma variável _area_. Após isso, ela altera a cor de fundo para _vermelho_ e o texto do elemento para _Clicou_, mas isso só ocorre com a chamada da função.
 
 Para chamar a função, pode-se adicionar o atributo `onclick=""` no elemento HTML com ID `area`, juntamente com a chamada da função `clicar()`, dessa forma: `onclick="clicar()"`
 
-![Função clicar](function-clicar-html.jpg)
+![Função clicar no html](function-clicar-html.jpg)
 
 Elemento antes da interação de click:
 
@@ -68,3 +68,21 @@ Elemento antes da interação de click:
 Elemento após a interação de click:
 
 ![Elemento após a interação de click](elemento-click-interacao.jpg)
+
+### Evento onmouseenter
+
+![Exemplo de função associada ao evento onmouseenter](function-entrar.jpg)
+
+A função acima interage com o DOM selecionando um elemento HTML com id igual a _area_, armazenando-o em uma variável _area_. Após isso, ela altera a cor de fundo para _verde_ e o texto do elemento para _Entrou_, mas isso só ocorre com a chamada da função.
+
+Para chamar a função, pode-se adicionar o atributo `onmouseenter=""` no elemento HTML com ID `area`, juntamente com a chamada da função `entrar()`, dessa forma: `onmouseenter="entrar()"`
+
+![Função entrar no html](function-entrar-html.jpg)
+
+Elemento antes da interação de click:
+
+![Elemento antes da interação de click](elemento-sem-interacao.jpg)
+
+Elemento após a interação onmouseenter:
+
+![Elemento após a interação onmouseenter](elemento-onmouseenter-interacao.jpg)
