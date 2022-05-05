@@ -51,7 +51,7 @@ Os eventos podem ser disparados pelo HTML através de atributos ou por JS, por m
 
 ### Exemplo de funções interagindo com o DOM
 
-### Evento de click
+#### Evento de click
 
 ![Exemplo de função associada ao evento de click](function-clicar-c.jpg)
 
@@ -69,7 +69,7 @@ Elemento após a interação de click:
 
 ![Elemento após a interação de click](elemento-click-interacao.jpg)
 
-### Evento onmouseenter
+#### Evento onmouseenter
 
 ![Exemplo de função associada ao evento onmouseenter](function-entrar.jpg)
 
@@ -87,7 +87,7 @@ Elemento após a interação onmouseenter:
 
 ![Elemento após a interação onmouseenter](elemento-onmouseenter-interacao.jpg)
 
-### Evento onmouseout
+#### Evento onmouseout
 
 ![Exemplo de função associada ao evento onmouseout](function-sair.jpg)
 
@@ -104,3 +104,13 @@ Elemento antes da interação de oumouseout, considerando que o elemento não fo
 Elemento após a interação oumouseout:
 
 ![Elemento após a interação onmouseout](elemento-onmouseout-interacao.jpg)
+
+### Listeners
+
+Uma alternativa para os exemplos anteriores, seria usar ouvintes ou listeners no JS, no lugar atributos de eventos no html. Abaixo a reprodução de um código js com o mesmo efeito usando listeners
+
+![Exemplo de ouvintes html](listeners-html.jpg)
+
+Note que a _div_, já não possui os atributos de eventos **on**algumacoisa.
+
+Utilizou-se `elementoHtml.addEventListener('nomeEvento', nomeFunção)`
