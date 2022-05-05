@@ -153,3 +153,5 @@ Código CSS:
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
 - [Notas Aula 09](../../moduloB/Aula09/)
+- [Stack Overflow](https://pt.stackoverflow.com/)
+- [Manual da Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/Events)
