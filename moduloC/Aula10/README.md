@@ -79,10 +79,28 @@ Para chamar a função, pode-se adicionar o atributo `onmouseenter=""` no elemen
 
 ![Função entrar no html](function-entrar-html.jpg)
 
-Elemento antes da interação de click:
+Elemento antes da interação de onmouseenter:
 
 ![Elemento antes da interação de click](elemento-sem-interacao.jpg)
 
 Elemento após a interação onmouseenter:
 
 ![Elemento após a interação onmouseenter](elemento-onmouseenter-interacao.jpg)
+
+### Evento onmouseout
+
+![Exemplo de função associada ao evento onmouseout](function-sair.jpg)
+
+A função acima interage com o DOM selecionando um elemento HTML com id igual a _area_, armazenando-o em uma variável _area_. Após isso, ela altera a cor de fundo para _verde_ e o texto do elemento para _Saiu_, mas isso só ocorre com a chamada da função.
+
+Para chamar a função, pode-se adicionar o atributo `onmouseout=""` no elemento HTML com ID `area`, juntamente com a chamada da função `sair()`, dessa forma: `onmouseout="sair()"`
+
+![Função sair no html](function-sair-html.jpg)
+
+Elemento antes da interação de oumouseout, considerando que o elemento não foi clicado:
+
+![Elemento antes da interação onmouseout](elemento-onmouseenter-interacao.jpg)
+
+Elemento após a interação oumouseout:
+
+![Elemento após a interação onmouseout](elemento-onmouseout-interacao.jpg)
