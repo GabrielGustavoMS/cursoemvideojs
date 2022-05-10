@@ -10,7 +10,7 @@ Q01 - Consegue citar 3 eventos que podem acontecer com elementos do DOM de um si
 
 Q02 - O que é uma função? Como criar funções em JS?
 
-É um bloco de intruções / código encapsulado que pode ser reutilizado / invocado por qualquer trecho de um programa.
+É um bloco de instruções / código encapsulado que pode ser reutilizado / invocado por qualquer trecho de um programa.
 
 Q03 - Sabe como pegar os valores de caixas de texto e fazer cálculos com eles.
 
