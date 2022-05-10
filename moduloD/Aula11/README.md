@@ -30,7 +30,7 @@ O trecho de código acima captura um valor numérico digitado pelo usuário e em
 
 Para representar isso em JS, utilizamos uma condição simples:
 
-![Código com condição simples](exemplo-condicao-simples-js)
+![Código com condição simples](exemplo-condicao-simples-js.jpg)
 
 Note que as condições são **desvios no fluxo** do programa, ou seja, considerando uma linguagem de programação imperativa, em que os comandos são executados linha a linha seguindo um "fluxo padrão", pode-se criar a possibilidade de um comando ser ou não executado de acordo com uma condição.
 
