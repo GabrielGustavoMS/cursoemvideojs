@@ -31,3 +31,21 @@ O trecho de código acima captura um valor numérico digitado pelo usuário e em
 Para representar isso em JS, utilizamos uma condição simples:
 
 ![Código com condição simples](exemplo-condicao-simples-js)
+
+Note que as condições são **desvios no fluxo** do programa, ou seja, considerando uma linguagem de programação imperativa, em que os comandos são executados linha a linha seguindo um "fluxo padrão", pode-se criar a possibilidade de um comando ser ou não executado de acordo com uma condição.
+
+### Tipos de condição
+
+Há mais tipos de estruturas condicionais, mas nesse aula foi apresentado somente:
+
+#### Condição Simples
+
+Se a condição for verdadeira um bloco de instrução será executado, se for false o programa seguirá seu "fluxo padrão". Abaixo a representação da estrutura condicional simples, apresentada no Curso em Vídeo:
+
+![](./condicao-simples-cvjs.jpg)
+
+#### Condição Composta
+
+É semelhante a condição simples, porém pode-se especificar o que ocorrerá caso a condição seja falsa e para isso adiciona-se a palavra reservada `else` ao final do bloco de instrução precedido por `if`. Abaixo a representação da estrutura condicional composta, apresentada no Curso em Vídeo:
+
+![](./condicao-composta-cvjs.jpg)
