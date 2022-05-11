@@ -75,3 +75,14 @@ _A condição simples possui o bloco de instrução se e senão_
 ![](ex010-resultado.jpg)
 
 ![](ex010-resultado-02.jpg)
+
+<br/>
+<br/>
+
+![](desafio-html.jpg)
+
+![](desafio-js.jpg)
+
+![](desafio-resultado-01.jpg)
+
+![](desafio-resultado-02.jpg)
