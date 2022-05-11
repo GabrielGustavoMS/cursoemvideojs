@@ -56,6 +56,8 @@ _A condição simples possui o bloco de instrução se e senão_
 
 ## Prática
 
+### Exercício 008
+
 ![](ex008.jpg)
 
 ![](ex008-02.jpg)
@@ -63,12 +65,16 @@ _A condição simples possui o bloco de instrução se e senão_
 <br/>
 <br/>
 
+### Exercício 009
+
 ![](ex009.jpg)
 
 ![](ex009-09.jpg)
 
 <br/>
 <br/>
+
+### Exercício 010
 
 ![](ex010.jpg)
 
@@ -78,6 +84,8 @@ _A condição simples possui o bloco de instrução se e senão_
 
 <br/>
 <br/>
+
+### Desafio
 
 ![](desafio-html.jpg)
 
