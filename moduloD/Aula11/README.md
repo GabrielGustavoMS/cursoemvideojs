@@ -44,8 +44,16 @@ Se a condição for verdadeira um bloco de instrução será executado, se for f
 
 ![](./condicao-simples-cvjs.jpg)
 
+_A condição simples possui apenas o bloco de instrução se_
+
 #### Condição Composta
 
-É semelhante a condição simples, porém pode-se especificar o que ocorrerá caso a condição seja falsa e para isso adiciona-se a palavra reservada `else` ao final do bloco de instrução precedido por `if`. Abaixo a representação da estrutura condicional composta, apresentada no Curso em Vídeo:
+É semelhante a condição simples, porém pode-se especificar o que ocorrerá caso a condição seja falsa e para isso adiciona-se a palavra reservada `else` (senão) ao final do bloco de instrução precedido por `if`. Abaixo a representação da estrutura condicional composta, apresentada no Curso em Vídeo:
 
 ![](./condicao-composta-cvjs.jpg)
+
+_A condição simples possui o bloco de instrução se e senão_
+
+## Prática
+
+### Velocidade do veículo - condição simples
