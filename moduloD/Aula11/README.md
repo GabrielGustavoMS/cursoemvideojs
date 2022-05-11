@@ -56,4 +56,22 @@ _A condição simples possui o bloco de instrução se e senão_
 
 ## Prática
 
-### Velocidade do veículo - condição simples
+![](ex008.jpg)
+
+![](ex008-02.jpg)
+
+<br/>
+<br/>
+
+![](ex009.jpg)
+
+![](ex009-09.jpg)
+
+<br/>
+<br/>
+
+![](ex010.jpg)
+
+![](ex010-resultado.jpg)
+
+![](ex010-resultado-02.jpg)
