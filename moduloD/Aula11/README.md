@@ -94,3 +94,5 @@ _A condição simples possui o bloco de instrução se e senão_
 ![](desafio-resultado-01.jpg)
 
 ![](desafio-resultado-02.jpg)
+
+## Referências
