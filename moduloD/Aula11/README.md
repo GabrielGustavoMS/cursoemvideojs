@@ -98,3 +98,7 @@ _A condição simples possui o bloco de instrução se e senão_
 ## Referências
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
 - [Notas Aula 10](../../moduloC/Aula10/)
+
+## Próxima Aula
+
+[Aula 12 - Condições Parte 2](../Aula12/)
