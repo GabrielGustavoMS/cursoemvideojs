@@ -1,5 +1,7 @@
 # Curso em Video Javascript
 
+![Thumb](./thumb.jpg)
+
 Esse repositório contém anotações referentes as aulas de **Javascript** do Curso em Vídeo.
 
 ## Módulo A
