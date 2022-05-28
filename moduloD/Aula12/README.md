@@ -100,7 +100,7 @@ _Fonte: Elaborada pelo autor_
 
 ### Saudações
 
-Nesse exercício criou-se um programa JS para retornar saudações com base no horário atual do sistema no momento em que for executado.
+Nesse exercício criou-se um programa JS para retornar saudações, com base no horário atual do sistema no momento em que for executado.
 
 Código JS:
 
@@ -113,6 +113,12 @@ Saída:
 ![Saída exercício 012](./condicaoAninhadaCodeEx012Saida.jpg)
 
 _Fonte: Elaborada pelo autor_
+
+### Dia da Semana
+
+Nesse exercício criou-se um programa JS que retorna o dia da semana por extenso, com base na data do sistema o momento em que for executado.
+
+![](./condicaoAninhadaCodeEx013Code.jpg)
 
 ## Referências
 
