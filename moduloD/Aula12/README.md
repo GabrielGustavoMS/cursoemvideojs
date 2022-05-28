@@ -133,4 +133,4 @@ Nesse exercício criou-se um programa JS que retorna o dia da semana por extenso
 
 ## Próxima Aula
 
-[Aula 13 - ](../../moduloE/Aula13/)
+[Aula 13 - Repetições (Parte 1)](../../moduloE/Aula13/)
