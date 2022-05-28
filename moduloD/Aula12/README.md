@@ -76,6 +76,10 @@ _Fonte: Elaborada pelo autor_
 
 _Fonte: Elaborada pelo autor_
 
+Note que a palavra reservada `case ` seguida de um valor e `:` marca o início de um bloco de instruções, enquando `break` delimita seu fim. Já `default` pode ser "equivalente" ao `else`, caso a exepressão que está sendo avaliada não corresponda a algum `case`, as intruções "dentro" do bloco `default` serão executadas.
+
+_`break` é obrigatório para marcar o fim do bloco `case`._
+
 ## Prática
 
 ### Voto
