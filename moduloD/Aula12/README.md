@@ -58,6 +58,24 @@ Abaixo o código JS que representa uma condição aninhada:
 
 _Fonte: Curso em Vídeo_
 
+## Condição Múltipla
+
+Por exemplo: Imagine que se quer avaliar a igualdade entre valores, mais especificamente o valor de uma variável, uma expressão.
+
+Pode-se resolver o problema das seguintes formas:
+
+### Solução 01 - Condição Aninhada
+
+![Exemplo condição aninhada](./exemploCondicaoAninhadaSolucao01.jpg)
+
+_Fonte: Elaborada pelo autor_
+
+### Solução 02 - Condição Múltipla
+
+![Exemplo condição múltipla](./exemploCondicaoMultiplaSolucao02.jpg)
+
+_Fonte: Elaborada pelo autor_
+
 ## Prática
 
 ### Voto
