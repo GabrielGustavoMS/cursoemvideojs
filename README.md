@@ -27,3 +27,5 @@ Esse repositório contém anotações referentes as aulas de **Javascript** do C
 
 - [Aula 11 - Condições Parte 1](/moduloD/Aula11/)
 - [Aula 12 - Condições Parte 2](/moduloD/Aula12/)
+
+## Módulo E
