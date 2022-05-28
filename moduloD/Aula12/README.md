@@ -61,6 +61,12 @@ _Fonte: Curso em Vídeo_
 ## Condição Múltipla
 
 Por exemplo: Imagine que se quer avaliar a igualdade entre valores, mais especificamente o valor de uma variável, uma expressão.
+Na condição múltipla utiliza-se as seguintes palavras reservadas:
+
+- `switch`
+- `case`
+- `break`
+- `default`
 
 Pode-se resolver o problema das seguintes formas:
 
