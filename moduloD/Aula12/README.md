@@ -124,13 +124,13 @@ _Fonte: Elaborada pelo autor_
 
 Nesse exercício, criou-se um programa JS que retorna o dia da semana por extenso, com base na data do sistema o momento em que for executado.
 
-![](./condicaoAninhadaCodeEx013Code.jpg)
+![Código ex013](./condicaoAninhadaCodeEx013Code.jpg)
 
 ### Hora do Dia
 
 Nesse exercício, criou-se um site que apresenta dinamicamente uma imagem e altera a cor do plano de fundo com base no horário atual, mais especificamente no momento do dia.
 
-![](./ex014.jpg)
+![Código ex014](./ex014.jpg)
 
 ## Referências
 
