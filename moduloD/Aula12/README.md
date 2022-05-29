@@ -132,6 +132,10 @@ Nesse exercício, criou-se um site que apresenta dinamicamente uma imagem e alte
 
 ![Código ex014](./ex014.jpg)
 
+[Acesse a aplicação](./ex014/)
+
+### Verificador de Idade
+
 ## Referências
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
