@@ -82,6 +82,8 @@ _A condição simples possui o bloco de instrução se e senão_
 
 ![](ex010-resultado-02.jpg)
 
+[Acesse a aplicação](https://gabrielgustavoms.github.io/cursoemvideojs/moduloD/Aula11/ex010.html)
+
 <br/>
 <br/>
 
@@ -95,7 +97,10 @@ _A condição simples possui o bloco de instrução se e senão_
 
 ![](desafio-resultado-02.jpg)
 
+[Acesse a aplicação](https://gabrielgustavoms.github.io/cursoemvideojs/moduloD/Aula11/desafio.html)
+
 ## Referências
+
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
 - [Notas Aula 10](../../moduloC/Aula10/)
 

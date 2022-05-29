@@ -132,7 +132,7 @@ Nesse exercício, criou-se um site que apresenta dinamicamente uma imagem e alte
 
 ![Código ex014](./ex014.jpg)
 
-[Acesse a aplicação](./ex014/)
+[Acesse a aplicação](https://gabrielgustavoms.github.io/cursoemvideojs/moduloD/Aula12/ex014/)
 
 ### Verificador de Idade
 
