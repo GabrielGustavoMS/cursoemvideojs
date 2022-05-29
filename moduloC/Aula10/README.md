@@ -37,7 +37,7 @@ Saiba mais sobre eventos no [manual da Mozilla](https://developer.mozilla.org/pt
 
 ## Funções
 
-Bloco de instruções reutilizáveis que podem ser executados quando um evento ocorre. Para declarar uma função em JS utiliza-se a palavra reservada `funtion` que pode ou não ser seguida de um nome de `()`.
+Bloco de instruções reutilizáveis que podem ser executados quando um evento ocorre. Para declarar uma função em JS utiliza-se a palavra reservada `function` que pode ou não ser seguida de um nome de `()`.
 
 _Uma função será disparada somente quando ocorrer a sua chamada._
 
@@ -148,6 +148,8 @@ Código JS:
 Código CSS:
 
 ![Ex 007 - css](ex007-css.jpg)
+
+[Acesse a aplicação](https://gabrielgustavoms.github.io/cursoemvideojs/moduloC/Aula10/ex007.html)
 
 ## Referências
 
