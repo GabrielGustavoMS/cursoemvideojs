@@ -130,9 +130,17 @@ Nesse exercício, criou-se um programa JS que retorna o dia da semana por extens
 
 Nesse exercício, criou-se um site que apresenta dinamicamente uma imagem e altera a cor do plano de fundo com base no horário atual, mais especificamente no momento do dia.
 
-![Código ex014](./ex014.jpg)
+![Print ex014](./ex014.jpg)
 
 [Acesse a aplicação](https://gabrielgustavoms.github.io/cursoemvideojs/moduloD/Aula12/ex014/)
+
+### Verificador de Idade
+
+Nesse exercício, criou-se um "verificador de idade", que detecta a idade do usuário com base no ano de nascimento digitado. Também apresenta uma imagem meramente ilustrativa com base no sexo masculino ou feminino.
+
+![Print ex015](./ex015.jpg)
+
+[Acesse a aplicação](https://gabrielgustavoms.github.io/cursoemvideojs/moduloD/Aula12/ex015/)
 
 ### Verificador de Idade
 
