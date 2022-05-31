@@ -19,3 +19,5 @@ Sim. Para isso pode-se realizar o seguinte:
 Q03 - Já treinou bastante o uso de condições?
 
 Sim.
+
+## Repetições
