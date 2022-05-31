@@ -14,3 +14,8 @@ Sim. Para isso pode-se realizar o seguinte:
 
 1. Criar o elemento HTML e armazená-lo em uma variável: `var img = document.createElementy('img')`
 2. Configurar o endereço da imagem por meio de seu atributo source: `img.setAttribute('src','./caminhoDaImagem/img.extensão')`
+3. Adicionar elemento criado em alguma parte do DOM: `ELEMENT.appendChild(img)`
+
+Q03 - Já treinou bastante o uso de condições?
+
+Sim.
