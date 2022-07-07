@@ -42,3 +42,5 @@ Há essencialmente 2 tipos:
 ![Exemplo while](./ex01.jpg)
 
 ![Exemplo do while](ex02.jpg)
+
+_Note que para mudar o número de vezes em que se imprime "Passo nº", basta alterar unicamente o teste lógico._
