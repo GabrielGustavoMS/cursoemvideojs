@@ -44,3 +44,12 @@ Há essencialmente 2 tipos:
 ![Exemplo do while](ex02.jpg)
 
 _Note que para mudar o número de vezes em que se imprime "Passo nº", basta alterar unicamente o teste lógico._
+
+## Referências
+
+- [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+- [Notas Aula 12](../../moduloD/Aula12/)
+
+## Próxima Aula
+
+[Aula 14 - Repetições (Parte 2)](../moduloE/Aula14/)
