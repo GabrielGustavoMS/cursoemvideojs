@@ -24,8 +24,21 @@ Sim.
 
 Quando se programa, busca-se por exemplo solucionar um problema, partindo de um ponto "A" e chegando em um ponto "B". O processo de execução de um programa se dá a partir da ordem que suas instruções são executadas; essa ordem recebe o nome de estrutura de controle.
 
-| Estrutura  | Descrição                                                                                                                                   |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Sequência  | Essa é a mais. As instruções são executadas sequencialmente, uma linha após a outra.                                                        |
-| Condições  | Essa estrutura pode gerar um "desvio" na execução do programa, que ocorre quando uma condição é atendida                                    |
-| Repetições | Essa estrutura é composta por uma condição que controla o número de vezes em que um determinado trecho de código / instrução será executado |
+| Estrutura  | Descrição                                                                                                                                                  |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sequência  | Essa é a mais. As instruções são executadas sequencialmente, uma linha após a outra.                                                                       |
+| Condições  | Essa estrutura pode gerar um "desvio" na execução do programa, que ocorre quando uma condição é atendida                                                   |
+| Repetições | Essa estrutura é composta por uma condição (teste lógico) que controla o número de vezes em que um determinado trecho de código / instrução será executado |
+
+### Tipos de estruturas de repetição
+
+Há essencialmente 2 tipos:
+
+- Estruturas com teste lógico no início como por exemplo: `while`
+- Estruturas com teste lógico no fim como por exemplo: `do while`
+
+#### Exemplos
+
+![Exemplo while](./ex01.jpg)
+
+![Exemplo do while](ex02.jpg)
