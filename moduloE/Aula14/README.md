@@ -13,4 +13,12 @@ A estrutura **while** tem seu teste lógico no início, enquanto **do while**, n
 
 ## Estruturas de repetição com variável de controle
 
-Em JavaScript e na maioria das linguagens, esse tipo de estrutura é representada pelo comando `for`.
+Em JavaScript e na maioria das linguagens, esse tipo de estrutura é representada por:
+
+`for (inicialização da variável; teste lógico; incremento da variável){`
+`//CODE`
+`}`
+
+Como o nome sugere, há uma variável responsável pelo controle, a qual será submetida a um teste lógico, o que determinará se o bloco de instruções dentro da estrutura deve ser repetido ou não.
+
+### Exemplo
