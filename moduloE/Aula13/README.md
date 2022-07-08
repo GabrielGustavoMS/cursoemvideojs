@@ -20,7 +20,7 @@ Q03 - Já treinou bastante o uso de condições?
 
 Sim.
 
-## Repetições
+## Estruturas de Controle
 
 Quando se programa, busca-se por exemplo solucionar um problema, partindo de um ponto "A" e chegando em um ponto "B". O processo de execução de um programa se dá a partir da ordem que suas instruções são executadas; essa ordem recebe o nome de estrutura de controle.
 
@@ -29,6 +29,12 @@ Quando se programa, busca-se por exemplo solucionar um problema, partindo de um 
 | Sequência  | Essa é a mais. As instruções são executadas sequencialmente, uma linha após a outra.                                                                       |
 | Condições  | Essa estrutura pode gerar um "desvio" na execução do programa, que ocorre quando uma condição é atendida                                                   |
 | Repetições | Essa estrutura é composta por uma condição (teste lógico) que controla o número de vezes em que um determinado trecho de código / instrução será executado |
+
+## Estruturas de Repetição
+
+Esse tipo de estrutra de controle, permite que um determinado bloco de instruções seja executado até que seu teste lógico seja atendido. Assim, não é preciso "reescrever o código" várias vezes.
+
+_É importante saber: Caso o teste lógico nunca seja verdadeiro, o programa entrará em looping pondendo travar._
 
 ### Tipos de estruturas de repetição
 
