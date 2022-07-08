@@ -10,3 +10,7 @@ Sim.
 
 Q03 - Consegue diferenciar estruturas **while** de **do while**?
 A estrutura **while** tem seu teste lógico no início, enquanto **do while**, no final.
+
+## Estruturas de repetição com variável de controle
+
+Em JavaScript e na maioria das linguagens, esse tipo de estrutura é representada pelo comando `for`.
