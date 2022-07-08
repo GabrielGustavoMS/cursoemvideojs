@@ -50,7 +50,7 @@ Há essencialmente 3 tipos:
 
 ![Exemplo do while](ex02.jpg)
 
-_Note que para mudar o número de vezes em que se imprime "Passo nº", basta alterar unicamente o teste lógico._
+_Note que para mudar o número de vezes em que se imprime "Passo nº", basta alterar unicamente o teste lógico. Além disso, é preciso incrementar o contador para que o programa não entre em looping "infinito"._
 
 ## Referências
 
