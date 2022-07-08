@@ -32,10 +32,11 @@ Quando se programa, busca-se por exemplo solucionar um problema, partindo de um 
 
 ### Tipos de estruturas de repetição
 
-Há essencialmente 2 tipos:
+Há essencialmente 3 tipos:
 
 - Estruturas com teste lógico no início como por exemplo: `while`
 - Estruturas com teste lógico no fim como por exemplo: `do while`
+- Estruturas com variável de controle: `for`
 
 #### Exemplos
 
