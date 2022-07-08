@@ -22,3 +22,5 @@ Em JavaScript e na maioria das linguagens, esse tipo de estrutura é representad
 Como o nome sugere, há uma variável responsável pelo controle, a qual será submetida a um teste lógico, o que determinará se o bloco de instruções dentro da estrutura deve ser repetido ou não.
 
 ### Exemplo
+
+![](./ex01.jpg)
