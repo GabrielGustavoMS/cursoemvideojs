@@ -31,3 +31,4 @@ Esse repositório contém anotações referentes as aulas de **Javascript** do C
 ## Módulo E
 
 - [Aula 13 - Repetições (Parte 1)](/moduloE/Aula13)
+- [Aula 14 - Repetições (Parte 2)](/moduloE/Aula14)
