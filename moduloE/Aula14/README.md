@@ -24,3 +24,10 @@ Como o nome sugere, há uma variável responsável pelo controle, a qual será s
 ### Exemplo
 
 ![](./ex01.jpg)
+
+## Referências
+
+- [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+- [Notas Aula 13](../Aula13/)
+
+## Próxima Aula
