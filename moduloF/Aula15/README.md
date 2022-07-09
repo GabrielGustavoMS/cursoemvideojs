@@ -76,3 +76,7 @@ Se o valor for encontrado, o método retornará a posição (índice) desse elem
 ![](./indexOFExemplo.jpg)
 
 _Fonte: Imagem eleborada pelo autor_
+
+## Próxima Aula
+
+- [Aula 16 - Funções](../Aula16/)
