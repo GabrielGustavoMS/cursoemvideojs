@@ -32,3 +32,9 @@ Esse repositório contém anotações referentes as aulas de **Javascript** do C
 
 - [Aula 13 - Repetições (Parte 1)](/moduloE/Aula13)
 - [Aula 14 - Repetições (Parte 2)](/moduloE/Aula14)
+
+## Módulo F - Avançando os estudos em JavaScript
+
+- [Aula 15 - Variáveis Compostas](./moduloF/Aula15)
+- [Aula 16 - Funções](./moduloF/Aula16)
+- [Aula 17 - Próximos Passos](./moduloF/Aula17)
