@@ -58,3 +58,11 @@ Uma forma mais recente é utilizar essa estrutura:
 [](./vetorNaTelaEx03.jpg)
 
 _Note que a variável posição nesse exemplo, funciona com a variável i do exemplo anterior._
+
+### Buscando elementos em vetores
+
+Conforme mostrado no curso, pode-se utilizar o método `indexOf('elemento a ser encontrado')`, como mostram as figuras abaixo:
+
+![](./indexOFVetor.jpg)
+
+![](./indexOF.jpg)
