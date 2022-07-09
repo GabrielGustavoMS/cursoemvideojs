@@ -77,6 +77,11 @@ Se o valor for encontrado, o método retornará a posição (índice) desse elem
 
 _Fonte: Imagem eleborada pelo autor_
 
+## Referências
+
+- [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+- [Notas Aula 14](../../moduloE/Aula14/)
+
 ## Próxima Aula
 
 - [Aula 16 - Funções](../Aula16/)
