@@ -31,9 +31,13 @@ Como o nome sugere, há uma variável responsável pelo controle, a qual será s
 
 ![](./ex016-preview.jpg)
 
+[Acessar Aplicação](https://gabrielgustavoms.github.io/cursoemvideojs/moduloE/Aula14/ex016/)
+
 #### Tabuada
 
 ![](./ex017-preview.jpg)
+
+[Acessar Aplicação](https://gabrielgustavoms.github.io/cursoemvideojs/moduloE/Aula14/ex017/)
 
 ## Referências
 
