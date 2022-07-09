@@ -59,4 +59,4 @@ _Note que para mudar o número de vezes em que se imprime "Passo nº", basta alt
 
 ## Próxima Aula
 
-[Aula 14 - Repetições (Parte 2)](../moduloE/Aula14/)
+[Aula 14 - Repetições (Parte 2)](../Aula14/)
