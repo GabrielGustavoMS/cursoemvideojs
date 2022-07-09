@@ -65,4 +65,14 @@ Conforme mostrado no curso, pode-se utilizar o método `indexOf('elemento a ser 
 
 ![](./indexOFVetor.jpg)
 
+_Fonte: Curso em Vídeo_
+
 ![](./indexOF.jpg)
+
+_Fonte: Curso em Vídeo_
+
+Se o valor for encontrado, o método retornará a posição (índice) desse elemento no vetor.Caso contrário, ele retornará: -1, como mostra o exemplo abaixo:
+
+![](./indexOFExemplo.jpg)
+
+_Fonte: Imagem eleborada pelo autor_
