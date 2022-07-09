@@ -25,6 +25,16 @@ Como o nome sugere, há uma variável responsável pelo controle, a qual será s
 
 ![](./ex01.jpg)
 
+### Exercícios
+
+#### Vamos Contar
+
+![](./ex016-preview.jpg)
+
+#### Tabuada
+
+![](./ex017-preview.jpg)
+
 ## Referências
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
