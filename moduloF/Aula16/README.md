@@ -66,3 +66,7 @@ Uma função recursiva é uma função que chama ela mesma.
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
 - [Notas Aula 15](../Aula15/)
+
+## Próxima Aula
+
+- [Aula 17 - Próximos Passos](../Aula17/)
