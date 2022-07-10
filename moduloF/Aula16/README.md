@@ -23,3 +23,41 @@ As funções podem possuir:
 - Entrada ou parâmetros
 - Saída ou retorno
 - Invocação ou chamada da função
+
+A seguir, alguns exemplos de função:
+
+### Função Par ou Impar
+
+Essa função verifica se o número passado por parâmetro é par ou impar
+
+![](./exemploDeFuncao.jpg)
+
+_Fonte: Elaborada pelo autor_
+
+### Função com parâmetros predefinidos
+
+Na ausência de um dos parâmetros, pode-se predefinir seu valor como mostra o exemplo abaixo:
+
+![](./exemploDeFuncao02.jpg)
+
+_Fonte: Elaborada pelo autor_
+
+Note que `n2` não está presente, então a função utiliza o valor `0` predefinido, somando-o com `n1`.
+
+### Função atribuida a uma variável
+
+Nesse exemplo, atribuiu-se uma função a uma variável.
+
+![](./exemploDeFuncao03.jpg)
+
+### Função Fatorial Iterativa
+
+Aqui utiliza-se uma estrutura de repetição para calcular o vatorial de um número.
+
+![](./exemploDeFuncao04.jpg)
+
+### Função Fatorial Recursiva
+
+Uma função recursiva é uma função que chama ela mesma.
+
+![](./exemploDeFuncao05.jpg)
