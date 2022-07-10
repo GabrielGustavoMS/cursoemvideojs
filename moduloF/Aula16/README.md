@@ -62,6 +62,12 @@ Uma função recursiva é uma função que chama ela mesma.
 
 ![](./exemploDeFuncao05.jpg)
 
+## Exercício
+
+![](./ex018-0.jpg)
+
+Acesso o [site](https://gabrielgustavoms.github.io/cursoemvideojs/moduloF/Aula16/ex018/)
+
 ## Referências
 
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
