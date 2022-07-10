@@ -53,6 +53,7 @@ Foi realmente **Fantástico**!
 
 ## Referências
 
+- [Notas Aula 16](../Aula16/)
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
 
 ## Primeira Aula
