@@ -61,3 +61,8 @@ Aqui utiliza-se uma estrutura de repetição para calcular o vatorial de um núm
 Uma função recursiva é uma função que chama ela mesma.
 
 ![](./exemploDeFuncao05.jpg)
+
+## Referências
+
+- [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+- [Notas Aula 15](../Aula15/)
